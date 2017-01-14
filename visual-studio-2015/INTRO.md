@@ -4,6 +4,6 @@ Visual Studio je oficiálne IDE od Microsoftu, jedno z prvých a najpoužívanej
 
 Návod je členený do nasledovných častí:
 - [Inštalácia](../visual-studio-2015/installation.md)
-- [Kompilácia projektu](#installation)
-- Spustenie projektu
-- Vytvorenie nového projektu
+- [Kompilácia projektu](../visual-studio-2015/compilation.md)
+- [Spustenie projektu](../visual-studio-2015/run.md)
+- [Vytvorenie novéhoprojektu](../visual-studio-2015/create.md)
