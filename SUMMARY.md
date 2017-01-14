@@ -1,4 +1,4 @@
-# Rozcestník
+# Summary
 
 ## Návody PB071
 * [Rozcestník](README.md)
@@ -14,7 +14,7 @@
     * [Vytvorenie nového projektu](qt-creator/create.md)
 * [Git](git/README.md)
     * [Inštalácia](git/installation.md)
-* Valgrind
+* [Valgrind](valgrind/README.md)
 * [Ubuntu on Bash](ubuntu-on-bash/README.md)
     * [Inštalácia](ubuntu-on-bash/installation.md)
 
