@@ -1,7 +1,6 @@
 ## Inštalácia {#visual-studio-installer}
 
-Stiahnite si Visual Studio **Community** na adrese [https://www.visualstudio.com/vs/\#downloadvs](https://www.visualstudio.com/vs/#downloadvs). Inštalácia by mala vyzerať  
-tak ako na priložených obrázkoch.
+Stiahnite si Visual Studio **Community** na adrese [https://www.visualstudio.com/vs/\#downloadvs](https://www.visualstudio.com/vs/#downloadvs). Inštalácia by mala vyzerať tak ako na priložených obrázkoch.
 
 1. _Type of installation_ zvoľte _Custom_ aby ste mohli vybrať komponenty nutné pre programovanie v C99
    ![](/visual-studio-2015/images/install_1.png)
