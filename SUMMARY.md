@@ -24,4 +24,5 @@
     * [Kompilácia projektu](visual-studio-2015/compilation.md)
     * [Spustenie projektu](visual-studio-2015/run.md)
     * [Vytvorenie nového projektu](visual-studio-2015/create.md)
+* [Xcode](xcode/README.md)
 
