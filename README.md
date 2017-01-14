@@ -1,4 +1,2 @@
-## Úvod
-
 {% include "./SUMMARY.md" %}
 
