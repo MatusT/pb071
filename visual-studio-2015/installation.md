@@ -10,3 +10,4 @@ tak ako na priložených obrázkoch.
  - Cross Platform Mobile Development -> Visual C++ Mobile Development -> **Clang with Microsoft CodeGen**
 ![](/visual-studio-2015/images/install_2.png)
 3. Dokončite inštaláciu potvrdzovaním jednotlivých krokov
+![](/visual-studio-2015/images/install_3.png)
