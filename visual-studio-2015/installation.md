@@ -11,8 +11,8 @@ Stiahnite si Visual Studio **Community** na adrese [https://www.visualstudio.com
      
      ![](/visual-studio-2015/images/install_2.png)
 3. Dokončite inštaláciu potvrdzovaním jednotlivých krokov
-   
-   ![](/visual-studio-2015/images/install_3.png)
+    
+    ![](/visual-studio-2015/images/install_3.png)
 
 ## Prvé spustenie {#visual-studio-first-run}
 
