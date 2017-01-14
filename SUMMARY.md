@@ -1,10 +1,10 @@
-# Rozcestník
+# Summary
 
 ## Návody PB071
 * [Rozcestník](README.md)
 
 ## Základné
-* [Qt Creator](qt-creator/INTRO.md)
+* [Qt Creator](qt-creator/README.md)
     * [Inštalácia](qt-creator/installation.md)
         * [Windows](qt-creator/installation-windows.md)
         * [Linux](qt-creator/installation-linux.md)
