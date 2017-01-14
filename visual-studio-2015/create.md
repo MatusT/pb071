@@ -12,8 +12,8 @@ V tomto predmete si vystačíte s najviac **2 projektami** v jednom solution na 
 
 
 1. V menu vyberte File → New → Project
-   
-   ![](/visual-studio-2015/images/project_create_1.png)
+  
+  ![](/visual-studio-2015/images/project_create_1.png)
 
 2. Z možných templatov vyberte Win32 Console Application a paremetre vyplňte nasledovne:
   - **Name** - názov projektu bude zodpovedať názvu folderu, kde bude uložený. Z tohoto dôvodu úlohy na odovzdanie Kontru pomenúvajte podľa vyžadovanej schémy(hw0x).
