@@ -16,7 +16,7 @@ Stiahnite si Visual Studio **Community** na adrese [https://www.visualstudio.com
 
 ## Prvé spustenie {#visual-studio-first-run}
 
-1. Pri prvom spustení po inštalácii dostanete na výber niekoľko možností ako nakonfigurovať Visual Studio. Na začiatku dostanete možnost prihlásiť sa s Microsoft účtom. Pokiaľ sa rozhodnete pre prihlásenie, budú sa Vám synchronizovať nastavenia v budúcich inštaláciach a na iných počítačoch. Pokiaľ nie, o nič neprídete a nie je to nutné pre tento predmet.
+1. Pri prvom spustení po inštalácii dostanete na výber niekoľko možností ako nakonfigurovať Visual Studio. Na začiatku dostanete možnost prihlásiť sa s Microsoft účtom. Pokiaľ sa rozhodnete pre prihlásenie, budú sa Vám synchronizovať nastavenia v budúcich inštaláciach a na iných počítačoch. Pokiaľ nie, o nič nutné pre tento predmet.
    
    ![](/visual-studio-2015/images/firstrun_1.png)
 2. Následne dostanete na výber usporiadanie a vzhľad. V tomto predmete sa Vám bude hodiť _Development Settings_ mať nastavené na **Visual C++**. Vzhľad je čisto o Vašich preferenciách, v tomto tutoriály bude preferovaný vzhľad **Blue**.
