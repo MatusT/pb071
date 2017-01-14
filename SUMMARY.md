@@ -19,7 +19,7 @@
     * [Inštalácia](ubuntu-on-bash/installation.md)
 
 ## Pokročilé
-* [Visual Studio 2015](visual-studio-2015/INTRO.md)
+* [Visual Studio 2015](visual-studio-2015/README.md)
     * [Inštalácia](visual-studio-2015/installation.md)
     * [Kompilácia projektu](visual-studio-2015/compilation.md)
     * [Spustenie projektu](visual-studio-2015/run.md)
