@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Rozcestník](README.md)
 * [Qt Creator](qt-creator.md)
     * Inštalácia
     * Kompilácia projektu
