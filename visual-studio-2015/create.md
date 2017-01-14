@@ -25,6 +25,7 @@ V tomto predmete si vystačíte s najviac **2 projektami** v jednom solution na 
     ![](/visual-studio-2015/images/project_create_2.png)
 
 3. Kliknite Next pre ďalšie nastavenia a zvolťe *Console application* a zaškrtnite iba *Empty project*
+   
    ![](/visual-studio-2015/images/project_create_5.png)
 
 4. Na to aby ste dostávali rovnaké warningy a errory, aké produkuje **gcc**/**Kontr**, je nutné zvoliť v nastaveniach projektu platformu *Clang with Microsoft CodeGen* a dodať **flag**y *-std=c99 -pedantic -Wall -Werror.*
