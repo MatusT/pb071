@@ -2,7 +2,7 @@
 
 * [Rozcestník](README.md)
 * [Qt Creator](qt-creator.md)
-    * Inštalácia
+    * [Inštalácia](inštalácia.md)
     * Kompilácia projektu
     * Spustenie projektu
     * Vytvorenie nového projektu
