@@ -3,12 +3,15 @@
 Stiahnite si Visual Studio **Community** na adrese [https://www.visualstudio.com/vs/\#downloadvs](https://www.visualstudio.com/vs/#downloadvs). Inštalácia by mala vyzerať tak ako na priložených obrázkoch.
 
 1. _Type of installation_ zvoľte _Custom_ aby ste mohli vybrať komponenty nutné pre programovanie v C99
+   
    ![](/visual-studio-2015/images/install_1.png)
 2. Z komponent na výber potrebujete tieto dve:
    * Programming Languages -&gt; Visual C++ -&gt; **Common Tools for Visual C++ 2015 **
    * Cross Platform Mobile Development -&gt; Visual C++ Mobile Development -&gt; **Clang with Microsoft CodeGen**
+     
      ![](/visual-studio-2015/images/install_2.png)
 3. Dokončite inštaláciu potvrdzovaním jednotlivých krokov
+   
    ![](/visual-studio-2015/images/install_3.png)
 
 ## Prvé spustenie {#visual-studio-first-run}
