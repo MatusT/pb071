@@ -4,6 +4,9 @@ Qt Creator je jednoduché prívetivé IDE vhodné pre ľudí začinájucich s C/
 
 Rozcestník:
 - [Inštalácia](../qt-creator/installation.md)
+ - [Windows](../qt-creator/installation-windows.md)
+ - [Linux](../qt-creator/installation-linux.md)
+ - [Mac OS X](../qt-creator/installation-macosx.md)
 - [Kompilácia projektu](../qt-creator/compilation.md)
 - [Spustenie projektu](../qt-creator/run.md)
 - [Vytvorenie nového projektu](../qt-creator/create.md)
