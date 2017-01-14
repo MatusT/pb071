@@ -6,8 +6,8 @@ Stiahnite si Visual Studio **Community** na adrese [https://www.visualstudio.com
    
    ![](/visual-studio-2015/images/install_1.png)
 2. Z komponent na výber potrebujete tieto dve:
-   * Programming Languages -&gt; Visual C++ -&gt; **Common Tools for Visual C++ 2015 **
-   * Cross Platform Mobile Development -&gt; Visual C++ Mobile Development -&gt; **Clang with Microsoft CodeGen**
+   * Programming Languages → Visual C++ → **Common Tools for Visual C++ 2015 **
+   * Cross Platform Mobile Development → Visual C++ Mobile Development → **Clang with Microsoft CodeGen**
      
      ![](/visual-studio-2015/images/install_2.png)
 3. Dokončite inštaláciu potvrdzovaním jednotlivých krokov
