@@ -13,3 +13,4 @@ preskočiť. V prípade, že sa rozhodnete túto možnosť využiť, účet Vám
      
     ![](/images/qt-creator/install_05.png)
 
+Po nainštalovaný môžete otvárať projektové súbory s príponou **.prroo**
