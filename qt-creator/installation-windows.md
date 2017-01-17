@@ -7,10 +7,10 @@ preskočiť. V prípade, že sa rozhodnete túto možnosť využiť, účet Vám
   
   ![](/images/qt-creator/install_02.png)
 
-2. Z komponent na výber potrebujete tieto dve:
+2. Z komponent na výber potrebujete:
   - Qt → Qt 5.7 → **MinGW 5.3.0 32 bit**
   - Tools → **MinGW 5.3**
      
     ![](/images/qt-creator/install_05.png)
 
-Po nainštalovaný môžete otvárať projektové súbory s príponou **.prroo**
+Po nainštalovaný môžete otvárať projektové súbory s príponou **.pro**, ktoré sú dodané v domácich úlohách a 
