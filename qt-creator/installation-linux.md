@@ -22,5 +22,7 @@ sudo dnf install make gcc gdb qt5*-devel qt-creator
 ```
 
 
+## Kam ďalej
 
+Po nainštalovaný môžete otvárať súbory, s príponopu **.pro**, definujúce projekt. Tieto projektové súbory sú dodané pre úlohy na cvičenia. Pokračujte v návode [otvrením a skompilovaním projektu](../qt-creator/compilation.md).
 

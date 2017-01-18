@@ -13,6 +13,6 @@ preskočiť. V prípade, že sa rozhodnete túto možnosť využiť, účet Vám
      
     ![](/images/qt-creator/install_05.png)
 
-### Kam ďalej
+## Kam ďalej
 
 Po nainštalovaný môžete otvárať súbory, s príponopu **.pro**, definujúce projekt. Tieto projektové súbory sú dodané pre úlohy na cvičenia. Pokračujte v návode [otvrením a skompilovaním projektu](../qt-creator/compilation.md).
