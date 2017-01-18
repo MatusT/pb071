@@ -15,4 +15,4 @@ preskočiť. V prípade, že sa rozhodnete túto možnosť využiť, účet Vám
 
 ## Kam ďalej
 
-Po nainštalovaný môžete otvárať súbory, s príponopu **.pro**, definujúce projekt. Tieto projektové súbory sú dodané pre úlohy na cvičenia. Pokračujte v návode [otvrením a skompilovaním projektu](../qt-creator/compilation.md).
+Po nainštalovaný môžete otvárať súbory, s príponopu **.pro**, definujúce projekt. Tieto projektové súbory sú dodané pre úlohy na cvičenia. Pokračujte v návode [otvorením a skompilovaním projektu](../qt-creator/compilation.md).
