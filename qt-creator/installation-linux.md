@@ -1,0 +1,2 @@
+## Inštalácia Qt na Linux
+
