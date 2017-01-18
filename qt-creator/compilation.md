@@ -31,4 +31,6 @@ Pri otváraní sa Qt Creator opýta, ktoré kit-y chcete použiť na prácu. Vys
 
 ### Spustenie
 
-Následne stačí kliknúť na ikonku spustenia/kompilácie.
+Následne stačí kliknúť na ikonku spustenia/kompilácie. Pri spustení sa automaticky skompilujú zmeny prevedené od poslednej kompilácie.
+
+![INSERT IMAGE]
