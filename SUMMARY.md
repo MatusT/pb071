@@ -9,7 +9,7 @@
         * [Windows](qt-creator/installation-windows.md)
         * [Linux](qt-creator/installation-linux.md)
         * [Mac OS X](qt-creator/installation-macosx.md)
-    * [Kompilácia projektu](qt-creator/compilation.md)
+    * [Kompilácia](qt-creator/compilation.md)
     * [Debugging](qt-creator/debug.md)
     * [Vytvorenie nového projektu](qt-creator/create.md)
 * [Git](git/README.md)
