@@ -13,4 +13,4 @@ preskočiť. V prípade, že sa rozhodnete túto možnosť využiť, účet Vám
      
     ![](/images/qt-creator/install_05.png)
 
-Po nainštalovaný môžete otvárať súbory definujúce projekt s príponou **.pro**. Tieto súbory sú dodané pre úlohy na cvičenia, aj pre domáce úlohy. Po otvorení pokračujte v návode [skompilovaním projektu](../qt-creator/compilation.md) a jeho [debuggovaním](../qt-creator.debug.md).
+Po nainštalovaný môžete otvárať súbory definujúce projekt s príponou **.pro**. Tieto súbory sú dodané pre úlohy na cvičenia, aj pre domáce úlohy. Po otvorení projektu pokračujte v návode [jeho skompilovaním](../qt-creator/compilation.md) a [ladením(debugging)](../qt-creator.debug.md).
