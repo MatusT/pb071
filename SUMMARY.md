@@ -1,4 +1,4 @@
-# Rozcestník
+# Summary
 
 ## Návody PB071
 * [Rozcestník](README.md)
@@ -10,7 +10,7 @@
         * [Linux](qt-creator/installation-linux.md)
         * [Mac OS X](qt-creator/installation-macosx.md)
     * [Kompilácia projektu](qt-creator/compilation.md)
-    * [Spustenie projektu](qt-creator/run.md)
+    * [Debugging](qt-creator/debug.md)
     * [Vytvorenie nového projektu](qt-creator/create.md)
 * [Git](git/README.md)
     * [Inštalácia](git/installation.md)
