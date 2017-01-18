@@ -9,11 +9,11 @@ Je termín, ktorý Qt Creator používa na označenie zoskupenia nástrojov slú
 - kompiláciu projektu(**gcc**)
 - debuggovanie(**gdb**)
 
-V menu **Tools → Options → Build & Run** môžete pridávať nové kit-y alebo upravovať existujúce. Po inštalácii by ste mali skontrolovať, že Qt Creator automaticky pripravil použiteľný kit s nástrojmi: qmake, gcc a gdb. 
+V menu **Tools → Options → Build & Run** môžete pridávať nové kit-y alebo upravovať existujúce. Po inštalácii by ste mali skontrolovať, že Qt Creator automaticky pripravil použiteľný kit s nástrojmi: gcc a gdb. 
 
 ![](/images/qt-creator/setup_01.png)
 
-> V prípade, že nebudete mať žiadny alebo chybný kit(ukazuje warning alebo error značku pri názve), skontrolujte si postup inštalácie podľa návodu a prípadne sa obrátte na cvičiaceho.
+> V prípade, že nebudete mať žiadny alebo chybný kit(ukazuje warning alebo error značku pri názve), skontrolujte si postup inštalácie podľa návodu a prípadne sa obráťte na cvičiaceho.
 
 Priložené sú obrázky ukazujúce správnu konfiguráciu v jednotlivých systémoch Windows, Ubuntu, Mac OS.
 
