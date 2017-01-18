@@ -9,7 +9,7 @@ Je termín, ktorý Qt Creator používa na označenie zoskupenia nástrojov slú
 - kompiláciu projektu(**gcc**)
 - debuggovanie(**gdb**)
 
-V záložke Projects → Manage Kits môžete pridávať nové kity alebo upravovať existujúce. Po inštalácii by ste mali skontrolovať, že Qt Creator automaticky pripravil použiteľný kit s nástrojmi: qmake, gcc a gdb. 
+V záložke **Projects → Manage Kits** môžete pridávať nové kity alebo upravovať existujúce. Po inštalácii by ste mali skontrolovať, že Qt Creator automaticky pripravil použiteľný kit s nástrojmi: qmake, gcc a gdb. 
 
 ![](/images/qt-creator/setup_01.png)
 
