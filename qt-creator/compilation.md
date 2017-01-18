@@ -21,3 +21,14 @@ Priložené sú obrázky ukazujúce správnu konfiguráciu v jednotlivých syst�
 
 ### Otvorenie projektu
 
+Ak ste nechali v inštalácii zaškrtnutú možnosť *Associate common file types with Qt Creator*(odporúčana možnosť v návode), stačí dvakrát kliknúť na **.pro** súbor pre otvorenie. V opačnom prípade sa dá použiť **File → Open Project...**
+
+![INSERT IMAGE]
+
+Pri otváraní sa Qt Creator opýta, ktoré kit-y chcete použiť na prácu. Vystačíte si s jediným vyššie spomenutým.
+
+![INSERT IMAGE]
+
+### Spustenie
+
+Následne stačí klikať na ikonky 
