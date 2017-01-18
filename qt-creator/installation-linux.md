@@ -8,5 +8,10 @@ sudo apt install qt5-default qtcreator gcc make
 
 ### Fedora 25
 
+```
+sudo apt install qt5-default qtcreator gcc make
+```
+
+
 
 
