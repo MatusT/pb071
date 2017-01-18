@@ -31,4 +31,4 @@ Pri otváraní sa Qt Creator opýta, ktoré kit-y chcete použiť na prácu. Vys
 
 ### Spustenie
 
-Následne stačí klikať na ikonky 
+Následne stačí kliknúť na ikonku spustenia/kompilácie.
