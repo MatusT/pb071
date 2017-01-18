@@ -21,7 +21,7 @@ Priložené sú obrázky ukazujúce správnu konfiguráciu v jednotlivých syst�
 
 ### Otvorenie projektu
 
-Ak ste nechali v inštalácii zaškrtnutú možnosť *Associate common file types with Qt Creator*(odporúčana možnosť v návode), stačí dvakrát kliknúť na **.pro** súbor pre otvorenie. V opačnom prípade sa dá použiť **File → Open Project...**
+Ak ste nechali v inštalácii zaškrtnutú možnosť *Associate common file types with Qt Creator*(odporúčana možnosť v návode), stačí kliknúť na **.pro** súbor pre otvorenie. V opačnom prípade sa dá použiť **File → Open Project...**
 
 ![INSERT IMAGE]
 
