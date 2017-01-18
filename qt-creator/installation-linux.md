@@ -7,7 +7,7 @@ Medzi základne balíky, ktoré sú potrebné pre kompiláciu, patria:
 - gcc - kompilátor
 - gdb - debugger
 
-Samotný Qt Creator nemusí byť vždy nainštalovaný aj s **qmake**, nástrojom na spracovávanie projektových súborov **pro**.
+Samotný Qt Creator nemusí byť vždy nainštalovaný aj s **qmake**, nástrojom na spracovávanie projektových súborov **.pro**.
 
 ## Ukážkové distribúcie
 
@@ -29,11 +29,24 @@ sudo dnf install make gcc gdb qt5*-devel qt-creator
 
 V prípade, že nepoužívate žiadnu z vyššie uvedených distribúcií, je priložený aj všeobecný návod pre každú distribúciu.
 
-1. Základne balíky make, gcc, gdb na kompiláciu musíte nainštalovať z balíčkovacieho správcu Vašej distribúcie - väčšinou sa tieto balíku volajú presne podľa názvov programov.
+Základne balíky **make, gcc, gdb** na kompiláciu musíte nainštalovať z balíčkovacieho správcu Vašej distribúcie - väčšinou sa tieto balíku volajú presne podľa názvov programov.
 
-2. Qt Creator je možné nainštalovať pomocou inštalátora:
-  - [64 bit](http://download.qt.io/official_releases/online_installers/qt-unified-linux-x64-online.run) 
-  - [32 bit](http://download.qt.io/official_releases/online_installers/qt-unified-linux-x86-online.run)
+**Qt Creator** je možné nainštalovať pomocou inštalátora:
+
+1. Stiahnite Qt Open Source Online Installer, napr. pomocou wget:
+  ```
+  # pre 32 bitovú verziu nahradťe x64 za x86
+  wget http://download.qt.io/official_releases/online_installers/qt-unified-linux-x64-online.run
+  ```
+2. Nastavte inštalátoru práva na spúštanie
+  ```
+  ./chmod +x qt-*
+  ```
+3. Spustite
+  ```
+  ./qt*
+  ```
+4. Postupujte v inštalátore, 
 
 ## Kam ďalej
 
