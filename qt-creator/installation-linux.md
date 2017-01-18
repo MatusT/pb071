@@ -46,9 +46,16 @@ Základne balíky **make, gcc, gdb** na kompiláciu musíte nainštalovať z bal
   ```
   ./qt*
   ```
-4. Postupujte v inštalátore, 
+4. Na začiatku Vám inštalátor ponúkne registráciu, ktorá nie je povinná a je možné ju
+preskočiť. V prípade, že sa rozhodnete túto možnosť využiť, účet Vám poslúži na prihlasovanie sa do [Qt Wiki](https://wiki.qt.io/Main) a [Qt Fóra](https://forum.qt.io/).
+  
+  ![](/images/qt-creator/linux_install_01.png)
+  
+5. Z komponent potrebujete Qt 5.7 → **Desktop gcc 64-bit/32-bit**
+  ![](/images/qt-creator/linux_install_03.png)
+
 
 ## Kam ďalej
 
-Po nainštalovaný môžete otvárať súbory, s príponopu **.pro**, definujúce projekt. Tieto projektové súbory sú dodané pre úlohy na cvičenia. Pokračujte v návode [otvrením a skompilovaním projektu](../qt-creator/compilation.md).
+Po nainštalovaný môžete otvárať súbory, s príponopu **.pro**, definujúce projekt. Tieto projektové súbory sú dodané pre úlohy na cvičenia. Pokračujte v návode [otvorením a skompilovaním projektu](../qt-creator/compilation.md).
 
