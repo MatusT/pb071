@@ -31,6 +31,12 @@ Pri otváraní sa Qt Creator opýta, ktoré kit-y chcete použiť na prácu. Vys
 
 ### Spustenie
 
-Následne stačí kliknúť na ikonku spustenia/kompilácie. Pri spustení sa automaticky skompilujú zmeny prevedené od poslednej kompilácie.
+Pred spustením si skontrolujte nastavenie *Run in terminal* v **Projects → Run**. Toto nastavenie je vhodné na testovanie aplikácie, tak ako sa reálne mimo editora spustí. Spúšťanie v editore je niekedy neprehľadné a nepraktické, hlavne pri zadávaní vstupu.
+
+Následne stačí kliknúť na ikonku spustenia/kompilácie. Pri spustení sa automaticky skompilujú zmeny prevedené od poslednej kompilácie. Ak nastanú pri kompilácii chyby, budú zobrazené v okne DOPLN. Pri dvojitom kliknuti na jednotlive chybove hlasky budete presmerovaný na subor a riadok, kde kompilacna chyba nastala.
 
 ![INSERT IMAGE]
+
+### Kam ďalej
+
+Po úspešnom prejdení tohoto návodu pokračujte [debuggovaním aplikácie](/qt-creator/debug.md) a [vytvorením nového projektu](/qt-creator.create.md) pre hw0x.
