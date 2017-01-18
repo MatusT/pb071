@@ -17,7 +17,7 @@ V záložke **Projects → Manage Kits** môžete pridávať nové kity alebo up
 
 Priložené sú obrázky ukazujúce správnu konfiguráciu v jednotlivých systémoch Windows, Ubuntu, Mac OS.
 
-![INSERT IMAGE]
+![](/images/qt-creator/setup_02.png)
 
 ### Otvorenie projektu
 
