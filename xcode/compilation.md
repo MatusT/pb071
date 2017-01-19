@@ -16,7 +16,7 @@ V bočnom menu projektu kliknite na súbor example, reprezentujúci aplikáciu \
 
 ![](/assets/Xcode_build1.jpg)
 
-Ako test, že ste _options \_nastavili správne, otvorte súbor \_main.c_ a do funcie _main_ pridajte nasledovný riadok:
+Ako test, že ste _options _nastavili správne, otvorte súbor _**main.c**_ a do funcie _main_ pridajte nasledovný riadok:
 
 int variable = 0;
 
