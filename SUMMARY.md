@@ -25,4 +25,8 @@
     * [Spustenie projektu](visual-studio-2015/run.md)
     * [Vytvorenie nového projektu](visual-studio-2015/create.md)
 * [Xcode](xcode/README.md)
+    * [Inštalácia](xcode/inštalácia.md)
+    * [Spustenie projektu](xcode/spustenie-projektu.md)
+    * [Nastavenie kompilačných parametrov](xcode/nastavenie-kompilačných-parametrov.md)
+    * [Vytvorenie nového projektu](xcode/vytvorenie-nového-projektu.md)
 
