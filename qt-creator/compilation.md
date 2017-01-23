@@ -6,10 +6,10 @@ Ak ste postupovali podľa [návodu](/qt-creator/installation.md) pri inštaláci
 
 Je termín, ktorý Qt Creator používa na označenie zoskupenia nástrojov slúžiacich na:
 - otvorenie projektového súboru(**qmake** pre súbory **.pro**)
-- kompiláciu projektu(**gcc**)
+- kompiláciu projektu(**gcc/MinGW**)
 - debuggovanie(**gdb**)
 
-V menu **Tools → Options → Build & Run** môžete pridávať nové kit-y alebo upravovať existujúce. Po inštalácii by ste mali skontrolovať, že Qt Creator automaticky pripravil použiteľný kit s nástrojmi: gcc a gdb. 
+V menu **Tools → Options → Build & Run** môžete pridávať nové kit-y alebo upravovať existujúce. Po inštalácii by ste mali skontrolovať, že Qt Creator automaticky pripravil použiteľný kit s nástrojmi: gcc/MinGW a gdb. 
 
 ![](/images/qt-creator/setup_01.png)
 
@@ -21,21 +21,23 @@ Priložené sú obrázky ukazujúce správnu konfiguráciu v jednotlivých syst�
 
 ### Otvorenie projektu
 
-Ak ste nechali v inštalácii zaškrtnutú možnosť *Associate common file types with Qt Creator*(odporúčana možnosť v návode), stačí kliknúť na **.pro** súbor pre otvorenie. V opačnom prípade sa dá použiť **File → Open Project...**
+Ak ste nechali v inštalácii zaškrtnutú možnosť *Associate common file types with Qt Creator*(odporúčana možnosť v návode), stačí kliknúť na **.pro** súbor pre otvorenie. V opačnom prípade sa dá použiť **File → Open Project...**. Po otvorení je projekt nájditeľný aj vo *Welcome* obrazovke Qt Creatora v kategórii *Recent Projects*. 
 
-![INSERT IMAGE]
+![](/images/qt-creator/open_01.png)
 
 Pri otváraní sa Qt Creator opýta, ktoré kit-y chcete použiť na prácu. Vystačíte si s jediným vyššie spomenutým.
 
-![INSERT IMAGE]
+![](/images/qt-creator/open_02.png)
 
 ### Spustenie
 
 Pred spustením si skontrolujte nastavenie *Run in terminal* v **Projects → Run**. Toto nastavenie je vhodné na testovanie aplikácie, tak ako sa reálne mimo editora spustí. Spúšťanie v editore je niekedy neprehľadné a nepraktické, hlavne pri zadávaní vstupu.
 
+![](/images/qt-creator/open_03.png)
+
 Následne stačí kliknúť na ikonku spustenia/kompilácie. Pri spustení sa automaticky skompilujú zmeny prevedené od poslednej kompilácie. Ak nastanú pri kompilácii chyby, budú zobrazené v okne **4 Compile Output**. Pri dvojitom kliknuti na jednotlivé chybové hlášky budete presmerovaný na súbor a riadok, kde kompilačná chyba nastala.
 
-![INSERT IMAGE]
+![](/images/qt-creator/compile_01.png)
 
 ### Kam ďalej
 
