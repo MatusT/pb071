@@ -20,15 +20,13 @@ Inštalátor vám v ďaľšom kroku ponúkne registráciu, ktorá nie je povinn�
 
 ![](/assets/OSX_install4.jpg)
 
-Pokračujte dalej inštaláciou \(výber súboru pre inštaláciu, ..\), až kým sa nedostanete k časti výberu komponent, ktoré sa majú nainštalovať, viď obrázok nižšie. Vyberte **Qt 5.8** a **Tools. **Pokračujte ďalej.
+Pokračujte dalej inštaláciou \(výber súboru pre inštaláciu, ..\), až kým sa nedostanete k časti výberu komponent, ktoré sa majú nainštalovať, viď obrázok nižšie. Rozbalte **Qt 5.8** a vyberte jedinú možnosť a to macOS**. **Pokračujte ďalej.
 
-![](/assets/OSX_install5.jpg)
+![](/assets/OSX_install5.png)
 
-Počkajte, kým sa stiahnú potrebné súbory pre inštaláciu. Táto časť môže zabrať dlhší čas.
+Počkajte, kým sa stiahnú potrebné súbory pre inštaláciu. Táto časť môže zabrať dlhší čas. Po dokončení inštalácie môžete spustiť vaše novo nainštalované IDE.
 
 ![](/assets/OSX_install6.jpg)
-
-...TO BE CONTINUED
 
 ## Kam ďalej
 
