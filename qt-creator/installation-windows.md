@@ -8,7 +8,7 @@ preskočiť. V prípade, že sa rozhodnete túto možnosť využiť, účet Vám
   ![](/images/qt-creator/windows_install_02.png)
 
 2. Z komponent na výber potrebujete:
-  - Qt → Qt 5.7 → **MinGW 5.3.0 32 bit**
+  - Qt → Qt 5.8 → **MinGW 5.3.0 32 bit**
   - Tools → **MinGW 5.3**
      
     ![](/images/qt-creator/windows_install_05.png)
