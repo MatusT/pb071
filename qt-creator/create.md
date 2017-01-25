@@ -36,7 +36,7 @@
   
   ![](/images/qt-creator/create_07.png)
   
-## Pridávanie nových súborov
+## Pridávanie nových súborov {#add-file}
 
 1. Pre pridanie nového súboru do projektu buď zvoľte v menu **File → New File or Project** alebo pravým kliknutím na názov projektu otvorte kontextové menu a zvoľte **Add New**
 
