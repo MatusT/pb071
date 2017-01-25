@@ -1,4 +1,4 @@
-## Inštalácia Qt na Windows {#intro}
+# Inštalácia Qt na Windows {#intro}
 
 Stiahnite si *Qt Open Source* na adrese [https://www.qt.io/download-open-source/](https://www.qt.io/download-open-source/). Inštalácia by mala vyzerať tak ako na priložených obrázkoch.
 
@@ -13,6 +13,6 @@ preskočiť. V prípade, že sa rozhodnete túto možnosť využiť, účet Vám
      
     ![](/images/qt-creator/windows_install_05.png)
 
-## Kam ďalej {#next}
+# Kam ďalej {#next}
 
 Po nainštalovaný môžete otvárať súbory, s príponopu **.pro**, definujúce projekt. Tieto projektové súbory sú dodané pre úlohy na cvičenia. Pokračujte v návode [otvorením a skompilovaním projektu](../qt-creator/compilation.md).
