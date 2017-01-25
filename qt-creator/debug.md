@@ -35,5 +35,7 @@ V tomto okne sú automaticky zobrazené lokálne premenné na stacku s ich hodno
 
 Zobrazuje zoznam funkcií, ktoré boli zavolané aby sa program dostal do zastaveného bodu. Stacktracom sa dá prezerať história behu programu, pre každý bod sú zapamätané *local variables and watches*.
 
-## 
 
+## Kam ďalej
+
+Po zvládnutí kompilácie a debugovania si [vytvorte nový projekt](./debug.md) pre domácu úlohu

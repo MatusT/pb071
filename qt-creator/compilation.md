@@ -39,6 +39,6 @@ Následne stačí kliknúť na ikonku spustenia/kompilácie. Pri spustení sa au
 
 ![](/images/qt-creator/compile_01.png)
 
-### Kam ďalej
+## Kam ďalej
 
 Po úspešnom prejdení tohoto návodu pokračujte [debuggovaním aplikácie](/qt-creator/debug.md) a [vytvorením nového projektu](/qt-creator.create.md) pre hw0x.
