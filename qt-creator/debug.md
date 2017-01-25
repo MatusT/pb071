@@ -29,7 +29,11 @@ Pomocou panelu, nachádzuceho sa nad oknom Stacktrace, je možné pohybovať sa 
 
 ### Local variables and watches
 
-V tomto okne sú automaticky zobrazené lokálne premenné na stacku s ich hodnotami v danom zastavenom stave programu. Dvojkliknutím do okna je možné pridať výraz
+V tomto okne sú automaticky zobrazené lokálne premenné na stacku s ich hodnotami v danom zastavenom stave programu. Dvojkliknutím do okna je možné pridať výraz, ktorý bude vyhodnocovaný pri zmene stavu. Výraz môže pozostávať aj z názvu iba jedinej premennej - takýmto spôsobom je možné sledovať premennú, ktorá nie je práve vo funkcii, kde sa chod programu nachádza.
 
 ### Stacktrace
+
+Zobrazuje zoznam funkcií, ktoré boli zavolané aby sa program dostal do zastaveného bodu. Stacktracom sa dá prezerať história behu programu, pre každý bod sú zapamätané *local variables and watches*.
+
+## 
 
