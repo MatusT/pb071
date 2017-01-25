@@ -11,8 +11,8 @@ Teraz môžete spustiť proces debugovania kliknutím na ikonu nachádzajúcu sa
 ## Breakpoints {#breakpoints}
 
 **Breakpoint** je bod v programe, určený podmienkou, na ktorom debugger zastaví počas behu programu. Podmienkou je najčastejsie riadok kódu v programe - takýto bod môžete určiť kliknutím vedľa čísla riadku v editore. Keď program v tomto bode zastaví, môžete:
-- preskúmať stav programu v oknách [*Stacktrace*]() a [*Local variables and watches*]()
-- postupovať po krokoch([Step over/into/out]())
+- preskúmať stav programu v oknách [*Stacktrace*](#stacktrace) a [*Local variables and watches*]()
+- postupovať po krokoch([Step over/into/out](#step))
 - nechať program bežať dalej kliknutím na Continue(viď obrázok), až kým nenarazí na ďalší breakpoint
 
 V okne *Breakpoints* je možné vidieť zoznam všetkých breakpointov, ktoré ste vytvorili. Dvojkliknutím do okna vytvoríte nový breakpoint, pravým kliknutím na existujúci breakpoint a zvolením **Edit Selected Breakpoints** upravíte podmienky zvoleného breakpointu.
