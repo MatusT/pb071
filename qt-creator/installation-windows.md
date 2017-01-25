@@ -1,4 +1,4 @@
-## Inštalácia Qt na Windows {#installation-windows}
+## Inštalácia Qt na Windows {#intro}
 
 Stiahnite si *Qt Open Source* na adrese [https://www.qt.io/download-open-source/](https://www.qt.io/download-open-source/). Inštalácia by mala vyzerať tak ako na priložených obrázkoch.
 
