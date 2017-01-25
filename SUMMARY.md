@@ -23,9 +23,11 @@
   * [Inštalácia](valgrind/installation.md)
     * [Windows](valgrind/installation_windows.md)
     * [Linux](valgrind/installation_linux.md)
-    * [Mac OS X](valgrind/installation_linux.md)
+    * [Mac OS X](valgrind/installation_mac.md)
+  * Použitie
 * [Ubuntu on Bash](ubuntu-on-bash/README.md)
   * [Inštalácia](ubuntu-on-bash/installation.md)
+  * [Prístup k súborom](ubuntu-on-bash/filesystem.md)
 
 ## Pokročilé
 

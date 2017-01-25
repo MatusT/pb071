@@ -1,1 +1,4 @@
-# Valgrind na Mac OS X {#intro}
+# Valgrind na Linux {#intro}
+
+# Kam ďalej {#next}
+

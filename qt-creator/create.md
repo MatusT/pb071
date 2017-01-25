@@ -57,4 +57,7 @@
 
 # Kam ďalej {#next}
 
-Ak ste sa dostali až sem, tak ste prešli všetky potrebné tutoriály na vývoj. Ďalej Vás čaká už len kontrola úloh programom Valgrind. Ak ste na Windowse a budete chcieť používať Valgrind, pokračujte na [Ubuntu on Bash tutoriál](), v opačnom prípade môžete ísť rovno na [Valgrind tutoriál]().
+Ak ste sa dostali až sem, tak ste prešli všetky potrebné tutoriály na vývoj. Ďalej by ste mali pokračovať:
+- hľadaním a odchytávaním chýb spojených s pamäťou pomocou nástroja [Valgrind]()
+- dokumentovaním kódu pomocou nástroja [Doxygen]()
+- odovzdaním úlohy na [AISA]()
