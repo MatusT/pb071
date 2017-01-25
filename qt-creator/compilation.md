@@ -1,8 +1,8 @@
-## Kompilácia
+## Kompilácia {#intro}
 
 Ak ste postupovali podľa [návodu](/qt-creator/installation.md) pri inštalácií, Qt Creator automaticky nájde všetky potrebné nástroje(kompilátor, debugger, qmake...) a vytvorí z nich použiteľné kit-y.
 
-### Kit
+### Kit {#kit}
 
 Je termín, ktorý Qt Creator používa na označenie zoskupenia nástrojov slúžiacich na:
 - otvorenie projektového súboru(**qmake** pre súbory **.pro**)
@@ -19,7 +19,7 @@ Priložené sú obrázky ukazujúce správnu konfiguráciu v jednotlivých syst�
 
 ![](/images/qt-creator/setup_02.png)
 
-### Otvorenie projektu
+### Otvorenie projektu {#open}
 
 Ak ste nechali v inštalácii zaškrtnutú možnosť *Associate common file types with Qt Creator*(odporúčana možnosť v návode), stačí kliknúť na **.pro** súbor pre otvorenie. V opačnom prípade sa dá použiť **File → Open Project...**. Po otvorení je projekt nájditeľný aj vo *Welcome* obrazovke Qt Creatora v kategórii *Recent Projects*. 
 
@@ -29,7 +29,7 @@ Pri otváraní sa Qt Creator opýta, ktoré kit-y chcete použiť na prácu. Vys
 
 ![](/images/qt-creator/open_02.png)
 
-### Spustenie
+### Spustenie {#run}
 
 Pred spustením si skontrolujte nastavenie *Run in terminal* v **Projects → Run**. Toto nastavenie je vhodné na testovanie aplikácie, tak ako sa reálne mimo editora spustí. Spúšťanie v editore je niekedy neprehľadné a nepraktické, hlavne pri zadávaní vstupu.
 
@@ -39,6 +39,6 @@ Následne stačí kliknúť na ikonku spustenia/kompilácie. Pri spustení sa au
 
 ![](/images/qt-creator/compile_01.png)
 
-## Kam ďalej
+## Kam ďalej {#next}
 
 Po úspešnom prejdení tohoto návodu pokračujte [debuggovaním aplikácie](/qt-creator/debug.md) a [vytvorením nového projektu](/qt-creator.create.md) pre hw0x.
