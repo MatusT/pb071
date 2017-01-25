@@ -35,6 +35,25 @@
    - **Werror** - skratka pre *Warning as error*, každé upozornenie bude brané ako chyba
   
   ![](/images/qt-creator/create_07.png)
+  
+## Pridávanie nových súborov
+
+1. 
+
+  ![](/images/qt-creator/newfile_01.png)
+  
+2.
+
+  ![](/images/qt-creator/newfile_02.png)
+
+3.
+
+  ![](/images/qt-creator/newfile_03.png)
+
+4.
+
+  ![](/images/qt-creator/newfile_04.png)
+
 
 # Kam ďalej {#next}
 
