@@ -38,4 +38,4 @@ Zobrazuje zoznam funkcií, ktoré boli zavolané aby sa program dostal do zastav
 
 # Kam ďalej {#next}
 
-Po zvládnutí kompilácie a debugovania si [vytvorte nový projekt](../qt-creator//debug.md) pre domácu úlohu
+Po zvládnutí kompilácie a debugovania si [vytvorte nový projekt](../qt-creator/debug.md) pre domácu úlohu
