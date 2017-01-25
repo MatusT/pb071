@@ -1,4 +1,4 @@
-# Rozcestník
+# Summary
 
 ## Návody PB071
 
@@ -20,6 +20,10 @@
     * [Linux](git/installation-linux.md)
     * [Mac OS X](git/installation-macosx.md)
 * [Valgrind](valgrind/README.md)
+  * [Inštalácia](valgrind/installation.md)
+    * [Windows](valgrind/installation_windows.md)
+    * [Linux](valgrind/installation_linux.md)
+    * [Mac OS X](valgrind/installation_linux.md)
 * [Ubuntu on Bash](ubuntu-on-bash/README.md)
   * [Inštalácia](ubuntu-on-bash/installation.md)
 
