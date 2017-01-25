@@ -1,10 +1,10 @@
 # Vytvorenie nového projektu {#intro}
 
-1. Vyberte v menu **File -> new File or Project** alebo **+ New Project** v úvodnej obrazovke
+1. Vyberte v menu **File → new File or Project** alebo **+ New Project** v úvodnej obrazovke
 
   ![](/images/qt-creator/create_01.png)
 
-2. Zvoľte typ projektu **Non-Qt Project -> Plain C Application**
+2. Zvoľte typ projektu **Non-Qt Project → Plain C Application**
 
   ![](/images/qt-creator/create_02.png)
 
@@ -38,22 +38,23 @@
   
 ## Pridávanie nových súborov
 
-1. 
+1. Pre pridanie nového súboru do projektu buď zvoľte v menu **File → New File or Project** alebo pravým kliknutím na názov projektu otvorte kontextové menu a zvoľte **Add New**
 
   ![](/images/qt-creator/newfile_01.png)
   
-2.
+2. Z templatov vyberte **C++ → C++ Source/Header** - source pre zdrojový .c súbor a header pre hlavičkový .h súbor.
 
   ![](/images/qt-creator/newfile_02.png)
 
-3.
+3. Pomenujte svoj súboor
 
   ![](/images/qt-creator/newfile_03.png)
 
-4.
+4. Zvoľte projekt, do ktorého má byť pridaný. Ak ste na začiatku už zvolili projekt, tak bude prednastavený. Môžete tiež rovno tento súbor pridať do git repozitár. Qt Creator potom vykoná príkaz *git add vas_subor*.
 
   ![](/images/qt-creator/newfile_04.png)
 
 
 # Kam ďalej {#next}
 
+Ak ste sa dostali až sem, tak ste prešli všetky potrebné tutoriály na vývoj. Ďalej Vás čaká už len kontrola úloh programom Valgrind. Ak ste na Windowse a budete chcieť používať Valgrind, pokračujte na [Ubuntu on Bash tutoriál](), v opačnom prípade môžete ísť rovno na [Valgrind tutoriál]().
