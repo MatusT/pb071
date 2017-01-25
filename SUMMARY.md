@@ -26,17 +26,16 @@
     * [Mac OS X](valgrind/installation_mac.md)
   * Použitie
 * [Doxygen](qt-creator/doxygen.md)
-  * [Inštalácia](qt-creator/doxygen/instalacia.md)
-    * Windows
-    * Linux
-    * Mac OS X
-  * Písanie dokumentácie
-  * Generovanie dokumentácie
-* [SSH a AISA](qt-creator/ssh-a-aisa.md)
-  * [Inštalácia](qt-creator/ssh-a-aisa/instalacia.md)
-    * Windows
-    * Linux
-    * Mac OS X
+  * [Inštalácia](doxygen/installation.md)
+    * [Windows](doxygen/installation_windows.md)
+    * [Linux](doxygen/installation_linux.md)
+    * [Mac OS X](doxygen/installation_mac.md)
+  * [Písanie dokumentácie](doxygen/document.md)
+  * [Generovanie dokumentácie](doxygen/generate.md)
+* [SSH a AISA](ssh/README.md)
+  * [Windows](ssh/windows.md)
+  * [Linux](ssh/linux.md)
+  * [Mac OS X](ssh/mac-os-x.md)
 * [Ubuntu on Bash](ubuntu-on-bash/README.md)
   * [Inštalácia](ubuntu-on-bash/installation.md)
   * [Prístup k súborom](ubuntu-on-bash/filesystem.md)
