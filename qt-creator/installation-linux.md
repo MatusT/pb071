@@ -1,8 +1,8 @@
-## Inštalácia Qt na Linux
+## Inštalácia Qt na Linux {#qt-creator-installation-linux}
 
 Inštalácia na linuxe je závislá na konkrétnej distribúcii a kedže distribúcií je nespočetne mnoho, konkrétne postupy tu budú uvedené len pre najnovšie verzie najpopulárnejších linuxových distribúcií. Pokiaľ máte názvy balíkov pre svoju distribúciu a chcete ju zdieľať s ostatnými študentami, pridajte ju do komentárov a bude pridaná do tohoto návodu.
 
-## Ukážkové distribúcie
+## Ukážkové distribúcie {#qt-creator-installation-distributions}
 
 V tejto časti sú uvedené príkazy inštalujúce všetky potrebné nástroje pre jednotlivé distribúcie.
 
@@ -18,7 +18,7 @@ sudo apt install make gcc gdb qt5-default qtcreator
 sudo dnf install make gcc gdb qt5*-devel qt-creator
 ```
 
-## Všeobecný postup - inštalátor
+## Všeobecný postup - inštalátor {#qt-creator-installation-installer}
 
 V prípade, že nepoužívate žiadnu z vyššie uvedených distribúcií, je priložený aj všeobecný návod pre každú distribúciu.
 
@@ -45,10 +45,11 @@ preskočiť. V prípade, že sa rozhodnete túto možnosť využiť, účet Vám
   ![](/images/qt-creator/linux_install_01.png)
   
 5. Z komponent potrebujete Qt 5.7 → **Desktop gcc 64-bit/32-bit**
+  
   ![](/images/qt-creator/linux_install_03.png)
 
 
-## Kam ďalej
+## Kam ďalej {#qt-creator-installation-linux-next}
 
 Po nainštalovaný môžete otvárať súbory, s príponopu **.pro**, definujúce projekt. Tieto projektové súbory sú dodané pre úlohy na cvičenia. Pokračujte v návode [otvorením a skompilovaním projektu](../qt-creator/compilation.md).
 
