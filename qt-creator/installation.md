@@ -1,4 +1,4 @@
-# Inštalácia
+# Inštalácia {#qt-creator-installation}
 
 - [Windows](../qt-creator/installation-windows.md)
 - [Linux](../qt-creator/installation-linux.md)
