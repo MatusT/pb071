@@ -24,7 +24,7 @@
     * [Windows](valgrind/installation_windows.md)
     * [Linux](valgrind/installation_linux.md)
     * [Mac OS X](valgrind/installation_mac.md)
-  * Použitie
+  * [Použitie](valgrind/use.md)
 * [Doxygen](qt-creator/doxygen.md)
   * [Inštalácia](doxygen/installation.md)
     * [Windows](doxygen/installation_windows.md)
