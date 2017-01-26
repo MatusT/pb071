@@ -2,7 +2,7 @@
 
 Tí z vás, ktorý si už vyskušali operačné systémy Ubuntu alebo Fedora viete, ako pohodlné je inštalovať nové balíčky pomocou apt-get install príkazu. [Homebrew](http://brew.sh/) je niečo podobné pre operačný systém OS X.
 
-Ovorte terminál. Ten nájdete v časti Launchpad &gt; Others, alebo pomocou rýchleho vyhladávania: stlačte **⌘+Space **a napíšte Terminál.
+Ovorte terminál. Ten nájdete v časti **Launchpad &gt; Others**, alebo pomocou rýchleho vyhladávania: stlačte **⌘+Space **a napíšte Terminál.
 
 ![](/assets/OSX_terminal.png)
 
