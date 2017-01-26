@@ -1,16 +1,14 @@
 # Valgrind na Mac OS X {#intro}
 
-
-
 Máte dve možnosti
 
-* Ak ste si nainštalovali alebo nainštalujete [Homebrew](/qt-creator/homebrew-for-os-x.md), otvorte terminál a napíšte:
+* Ak ste si nainštalovali alebo nainštalujete [Homebrew](/qt-creator/homebrew-osx.md), otvorte terminál a napíšte:
 
 ```terminal
 brew install valgrind
 ```
 
-Pozor! Ak máte nainštalovanú najnovšiu nerziu OS X Sierra, je možné, že brew zlyhá s hláškou 
+Pozor! Ak máte nainštalovanú najnovšiu nerziu OS X Sierra, je možné, že brew zlyhá s hláškou
 
 ```terminal
 versions newer than El Capitan due to an upstream incompatibility.
@@ -31,18 +29,16 @@ Na vzniknutý priečinok kliknite pravým klikom a vyberte možnosť_ Get Info._
 
 ![](/assets/OSX_valgrind2.png)
 
-V otvorenom okne zistíte, kde máte súbor uložený. 
+V otvorenom okne zistíte, kde máte súbor uložený.
 
 ![](/assets/OSX_valgrind3.jpg)
 
 Otvorte terminál.
 
-
-
 V príklade je cesta k priečinku : **/Users/Kejsty/Downloads/valgrind/**  
 a názov priečinku **valgrind-3.12.0**
 
-Napíšte: 
+Napíšte:
 
 ```terminal
 cd /Users/Kejsty/Downloads/valgrind/valgrind-3.12.0
@@ -66,13 +62,11 @@ riešenie:
 xcode-select --install
 ```
 
-
-
 2.
 
 ```
 Undefined symbols for architecture x86_64: 
- 
+
    "___bzero", referenced from:
        _hijack_thread_state in libcoregrind-amd64-darwin.a(libcoregrind_amd64_darwin_a-syswrap-amd64-darwin.o)  
        _RRegUniverse__init in libvex-amd64-darwin.a(libvex_amd64_darwin_a-host_generic_regs.o) 
