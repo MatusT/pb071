@@ -6,6 +6,8 @@ Je užitočný nástroj na hľadanie chýb spojených s pamäťou. Odhalí príp
 - zápis na nepovolené miesto v pamäti
 - a ďalšie
 
+Valgrindom sú kontrolované aj Vaše úlohy odovzdané cez Kontr.
+
 Rozcestník:
 
 * [Inštalácia](../valgrind/installation.md)
