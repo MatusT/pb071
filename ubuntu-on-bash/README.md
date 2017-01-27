@@ -53,6 +53,9 @@ V priečinku **/mnt/c/** sa nachádza partícia **C:/*.* Pre vrátenie sa do dom
 cd ~
 ```
 
+![](/images/ubuntu-on-bash/install_08.png)
+
+
 # Kam ďalej {#next}
 
 Najdôležitejšia funkcionalita je pre Vás použitie programu Valgrind, ktorý inak na Windowse nespustíte. Pokračujte [návodom na jeho inštaláciu](../valgrind/installation_windows.md).
