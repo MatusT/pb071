@@ -17,9 +17,29 @@ Najprv potrebujete **Ubuntu on Windows**. Ak ho nemáte, začnite [tutoriálom n
    tar -xjf valgrind*
    ```
    Tento krok môže trvať pár minút.
+   
 4. Vstúpte do adresára valgrindu:
    ```
    cd valgrind*
+   ```
+   ![](/images/valgrind/install_09.png)
+   
+5. Spustite automatickú konfiguráciu príkazom:
+   ```
+   ./configure
+   ```
+   
+6. Skompilujte a nainštalujte Valgrind:
+   ```
+   make && sudo make install
+   ```
+7. Reštartujte Ubuntu on Windows a overte, že valgrind je nainštalovaný:
+   ```
+   valgrind --version
+   ```
+   Výstupom by malo byť:
+   ```
+   valgrind-3.12.0
    ```
    
 
