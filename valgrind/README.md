@@ -12,7 +12,7 @@ Rozcestník:
   * [Windows](../valgrind/installation-windows.md)
   * [Linux](../valgrind/installation-linux.md)
   * [Mac OS X](../valgrind/installation-macosx.md)
-* [Použitie](../valgrind/compilation.md)
+* [Použitie](../valgrind/use.md)
 
 
 
