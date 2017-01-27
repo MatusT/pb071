@@ -20,7 +20,7 @@
 
   ![](/images/ubuntu-on-bash/install_05.png)
   
-6. Nápište **y** a stlačte enter pre potvrdenie inštalácie. V ďalšom kroku si vymyslite meno a heslo pre účet administrátora linuxového systému - tento účet sa nemusí zhodovať s Vaším Windows účtom.
+6. Nápište **y** a stlačte enter pre potvrdenie inštalácie. V ďalšom kroku vytvorte účet administrátora linuxového systému - tento účet sa nemusí zhodovať s Vaším Windows účtom.
 
   ![](/images/ubuntu-on-bash/install_06.png)
 
@@ -34,6 +34,10 @@ Na začiatok je odporúčané updatovať Ubuntu pomocou príkazu:
 ```
 sudo apt update && sudo apt upgrade
 ```
+
+# Prístup k súborom {#filesystem}
+
+
 
 # Kam ďalej {#next}
 
