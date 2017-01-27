@@ -2,7 +2,7 @@
 
 Máte dve možnosti
 
-* Ak ste si nainštalovali alebo nainštalujete [Homebrew](/qt-creator/homebrew-for-os-x.md), otvorte terminál a napíšte:
+* Ak ste si nainštalovali alebo nainštalujete [Homebrew](/qt-creator/homebrew-osx.md), otvorte terminál a napíšte:
 
 ```terminal
 brew install doxygen
