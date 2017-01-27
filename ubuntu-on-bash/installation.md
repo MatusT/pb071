@@ -36,3 +36,5 @@ sudo apt update && sudo apt upgrade
 ```
 
 # Kam ďalej {#next}
+
+Najdôležitejšia funkcionalita je pre Vás použitie programu Valgrind, ktorý inak na Windowse nespustíte. Pokračujte [návodom na jeho inštaláciu](../valgrind/installation_windows.md).
