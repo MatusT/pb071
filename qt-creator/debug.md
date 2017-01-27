@@ -21,7 +21,7 @@ Pokročilejšie nastavenia breakpointu su užitočné napríklad vtedy, keď chc
 
 ## Step over/into/out {#step}
 
-Pomocou panelu, nachádzuceho sa nad oknom Stacktrace, je možné pohybovať sa v programe po krokoch:
+Pomocou panelu, nachádzajúceho sa nad oknom Stacktrace, je možné pohybovať sa v programe po krokoch:
 
 - **Step over** - preskočí riadok kódu na ktorom sa nachádza a zastaví sa na nasledujúcom
 - **Step into** - vstúpi do funkcie, ktorá je volaná na aktuálnom riadku
