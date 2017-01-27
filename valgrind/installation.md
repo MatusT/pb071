@@ -1,3 +1,5 @@
 # Inštalácia {#intro}
 
-Najprv potrebujete **Ubuntu on Windows**. Ak ho nemáte, začnite [tutoriálom na Ubuntu on Windows](../ubuntu-on-bash/README.md).
+* [Windows](../valgrind/installation-windows.md)
+* [Linux](../valgrind/installation-linux.md)
+* [Mac OS X](../valgrind/installation-macosx.md)
