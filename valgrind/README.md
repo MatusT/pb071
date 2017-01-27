@@ -6,5 +6,15 @@ Je užitočný nástroj na hľadanie chýb spojených s pamäťou. Odhalí príp
 - zápis na nepovolené miesto v pamäti
 - a ďalšie
 
+Rozcestník:
+
+* [Inštalácia](../valgrind/installation.md)
+  * [Windows](../valgrind/installation-windows.md)
+  * [Linux](../valgrind/installation-linux.md)
+  * [Mac OS X](../valgrind/installation-macosx.md)
+* [Použitie](../valgrind/compilation.md)
+
+
+
 
 
