@@ -38,4 +38,7 @@ Zobrazuje zoznam funkcií, ktoré boli zavolané aby sa program dostal do zastav
 
 # Kam ďalej {#next}
 
-Po zvládnutí kompilácie a debugovania si [vytvorte nový projekt](../qt-creator/create.md) pre domácu úlohu
+Ak ste sa dostali až sem, tak ste prešli všetky potrebné tutoriály na vývoj. Ďalej by ste mali pokračovať:
+- hľadaním a odchytávaním chýb spojených s pamäťou pomocou nástroja [Valgrind]()
+- dokumentovaním kódu pomocou nástroja [Doxygen]()
+- odovzdaním úlohy na [AISA]()

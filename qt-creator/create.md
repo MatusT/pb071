@@ -57,7 +57,6 @@
 
 # Kam ďalej {#next}
 
-Ak ste sa dostali až sem, tak ste prešli všetky potrebné tutoriály na vývoj. Ďalej by ste mali pokračovať:
-- hľadaním a odchytávaním chýb spojených s pamäťou pomocou nástroja [Valgrind]()
-- dokumentovaním kódu pomocou nástroja [Doxygen]()
-- odovzdaním úlohy na [AISA]()
+Pokračujte:
+- [skompilovaním projektu](../qt-creator/compilation.md)
+- [debuggovaním](../qt-creator/debug.md)
