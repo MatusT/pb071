@@ -1,4 +1,4 @@
-# Ubuntu on Bash {#intro}
+# Ubuntu on Windows {#intro}
 
 Je nový projekt od Microsoftu, ktorý je možné si nainštalovať vo Windows od verzie 10. Umožnuje spúšťať Ubuntu ako štandardnú aplikáciu. Táto funkcionalita je užitočná pre Vás pre z niekoľkých dôvodov:
 - môžete používať nástroj **Valgrind**, ktorý je určený len pre Linux(a čiastočne Mac OS X)
