@@ -30,3 +30,9 @@ Po úspešnom nainštalovaní môžete spúštať aplikáciu **Bash on Ubuntu on
 
 ![](/images/ubuntu-on-bash/install_07.png)
 
+Na začiatok je odporúčané updatovať Ubuntu pomocou príkazu:
+```
+sudo apt update && sudo apt upgrade
+```
+
+# Kam ďalej {#next}
