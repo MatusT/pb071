@@ -33,6 +33,7 @@ Najprv potrebujete program **Ubuntu on Windows**. Ak ho nemáte, začnite [tutor
    ```
    make && sudo make install
    ```
+   
 7. Reštartujte Ubuntu on Windows a overte, že valgrind je nainštalovaný:
    ```
    valgrind --version
