@@ -26,7 +26,7 @@
 
 # Prvé kroky {#start}
 
-Po úspešnom nainštalovaní môžete spúštať aplikáciu **Ubuntu on Bash**. Je to plnohodnotné Ubuntu a teda všetky linuxové príkazy v ňom budú fungovať.
+Po úspešnom nainštalovaní môžete spúštať aplikáciu **Bash on Ubuntu on Windows**. Je to plnohodnotné Ubuntu a teda všetky linuxové príkazy v ňom budú fungovať.
 
 ![](/images/ubuntu-on-bash/install_07.png)
 
