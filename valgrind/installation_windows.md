@@ -1,6 +1,6 @@
 # Valgrind na Windows {#intro}
 
-Najprv potrebujete **Ubuntu on Windows**. Ak ho nemáte, začnite [tutoriálom na Ubuntu on Windows](../ubuntu-on-bash/README.md). Pokiaľ už máte Ubuntu nainštalované, spustite ho.
+Najprv potrebujete program **Ubuntu on Windows**. Ak ho nemáte, začnite [tutoriálom na Ubuntu on Windows](../ubuntu-on-bash/README.md). Pokiaľ už máte Ubuntu nainštalované, spustite ho.
 
 1. Najprv nainštalujte sadu nástrojov na kompiláciu:
   ```
