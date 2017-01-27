@@ -36,7 +36,6 @@
   * [Windows](ssh/windows.md)
   * [Linux & Mac OS X](ssh/linux.md)
 * [Ubuntu on Windows](ubuntu-on-bash/README.md)
-  * [Inštalácia](ubuntu-on-bash/installation.md)
 * [Homebrew for OS X](qt-creator/homebrew-osx.md)
 
 ## Pokročilé
