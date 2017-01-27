@@ -8,7 +8,7 @@
 
   ![](/images/ubuntu-on-bash/install_02.png)
 
-3. Cez vyhľadávanie otvorte **Turn Windows features on or off**.
+3. Cez vyhľadávanie nájdite a otvorte **Turn Windows features on or off**.
 
   ![](/images/ubuntu-on-bash/install_03.png)
 
