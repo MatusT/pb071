@@ -48,7 +48,7 @@ Ubuntu on Windows má svoj vyhradený priestor oddelený od Windowsu. Pokiaľ ch
 ```
 cd /mnt/c/
 ```
-V priečinku **/mnt/c/** sa nachádza partícia **C:/*.* Pre vrátenie sa do domovského adresára Ubuntu použite:
+V priečinku **/mnt/c/** sa nachádza partícia **C:/**. Pre vrátenie sa do domovského adresára Ubuntu použite:
 ```
 cd ~
 ```
