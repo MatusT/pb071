@@ -35,7 +35,7 @@
 * [SSH a AISA](ssh/README.md)
   * [Windows](ssh/windows.md)
   * [Linux & Mac OS X](ssh/linux.md)
-* [Ubuntu on Bash](ubuntu-on-bash/README.md)
+* [Ubuntu on Windows](ubuntu-on-bash/README.md)
   * [Inštalácia](ubuntu-on-bash/installation.md)
   * [Prístup k súborom](ubuntu-on-bash/filesystem.md)
 * [Homebrew for OS X](qt-creator/homebrew-osx.md)
