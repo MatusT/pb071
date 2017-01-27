@@ -5,3 +5,4 @@ Je nový projekt od Microsoftu, ktorý je možné si nainštalovať vo Windows o
 - môžete sa učiť linuxovú príkazovú riadku z pohodlia domova na svojom vlastnom počítači bez potreby linux reálne inštalovať
 - budete mať rovnaké podmienky za akých kompiluje a testuje Vaše úlohy **Kontr**
 
+Začnite [inštaláciou](../ubuntu-on-bash/filesystem.md)
