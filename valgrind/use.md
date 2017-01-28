@@ -26,7 +26,7 @@ Následne môžete program spustiť:
 
 ### Qt projekty typu .pro {#qmake}
 
-> Windows: v *Bash on Ubuntu on Windows* použite príkaz: sudo apt install qt5-default
+> Windows: v *Bash on Ubuntu on Windows* použite príkaz **sudo apt install qt5-default**
 > na inštaláciu Qt nástrojov
 
 
