@@ -73,3 +73,6 @@ Hello World!
 
 # Kam ďalej {#next}
 
+Po odchytení všetkých chýb programu, je potrebné program:
+- zdokumentovať programom [Doxygen](../doxygen/README.md)
+- ak je úlohou na odovzdanie, [odovzdať cez Kontr](../ssh/README.md)
