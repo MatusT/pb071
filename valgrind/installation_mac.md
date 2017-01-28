@@ -1,6 +1,6 @@
 # Valgrind na Mac OS X {#intro}
 
-Máte dve možnosti
+Máte tri možnosti
 
 * Ak ste si nainštalovali alebo nainštalujete [Homebrew](/qt-creator/homebrew-osx.md), otvorte terminál a napíšte:
 
@@ -46,50 +46,45 @@ cd /Users/Kejsty/Downloads/valgrind/valgrind-3.12.0
 make
 ```
 
-A dúfajte, všetko prebehne v poriadku.
+A dúfajte, všetko prebehne v poriadku. Ak nie, skúste tretiu možnosť
 
-Možné errory, na ktoré som narazila ja:
+* Otvorte terminál a presunte na \(pomocou cd {directory}\) na miesto, kam chcete valgrind stiahnuť.
 
-1.
-
-```terminal
-No rule to make target `/usr/include/mach/mach_vm.defs', needed by `m_mach/mach_vmUser.c'
-```
-
-riešenie:
+Postupne aplikujte nasledovné príkazy v termináli:
 
 ```terminal
-xcode-select --install
+curl -OL http://ftpmirror.gnu.org/autoconf/autoconf-2.69.tar.gz
+tar -xzf autoconf-2.69.tar.gz 
+cd autoconf-2.69
+./configure && make && sudo make install
+cd ..
+
+curl -OL http://ftpmirror.gnu.org/automake/automake-1.14.tar.gz
+tar -xzf automake-1.14.tar.gz
+cd automake-1.14
+./configure && make && sudo make install
+cd..
+
+curl -OL http://ftpmirror.gnu.org/libtool/libtool-2.4.2.tar.gz
+tar -xzf libtool-2.4.2.tar.gz
+cd libtool-2.4.2
+./configure && make && sudo make install
+cd ..
+
+svn co svn://svn.valgrind.org/valgrind/trunk valgrind
+cd valgrind
+./autogen.sh
+./configure -disable-tls --enable-only64bit --build=amd64-darwin 
+make
+sudo make install 
 ```
 
-2.
+Prvé tri balíčky vám umožnia spustiť skript **autogen.sh**, ktorý nakonfiguruje prostredie a pripraví ho pre kompiláciu.   
+**svn://svn.valgrind.org/valgrind/trunk** obsahuje najnovšiu binárku pre valgrind.
 
-```
-Undefined symbols for architecture x86_64: 
 
-   "___bzero", referenced from:
-       _hijack_thread_state in libcoregrind-amd64-darwin.a(libcoregrind_amd64_darwin_a-syswrap-amd64-darwin.o)  
-       _RRegUniverse__init in libvex-amd64-darwin.a(libvex_amd64_darwin_a-host_generic_regs.o) 
-```
 
-riešenie:
 
-V priečinku s binárkami valgrindu otvorte **coregrind/m\_main.c **a za všetky include vložte:
 
-```C
-#if defined(VGO_darwin) && DARWIN_VERS >= DARWIN_10_10 
 
-/* This might also be needed for > DARWIN_10_10, but I have no way 
-    to test for that.  Hence '==' rather than '>=' in the version 
-    test above. */ 
-void __bzero ( void* s, UWord n ); 
-void __bzero ( void* s, UWord n ) 
-{ 
-    (void) VG_(memset)( s, 0, n ); 
-} 
-
-#endif 
-```
-
-Obecná rada: googlite.
 
