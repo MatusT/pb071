@@ -43,6 +43,6 @@ Najprv potrebujete program **Ubuntu on Windows**. Ak ho nemáte, začnite [tutor
    valgrind-3.12.0
    ```
    
-
 # Kam ďalej {#next}
 
+Nezabudnite, že všetku prácu s Valgrindom musíte na Windowse vykonávať v *Bash on Ubuntu on Windows*. Pokračujte [skompilovaním projektu a spustením valgrindu](../valgrind/use.md).
