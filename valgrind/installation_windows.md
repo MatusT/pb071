@@ -4,7 +4,7 @@ Najprv potrebujete program **Ubuntu on Windows**. Ak ho nemáte, začnite [tutor
 
 1. Najprv nainštalujte sadu nástrojov na kompiláciu:
   ```
-  sudo apt install wget tar git gcc make
+  sudo apt install wget tar git gcc g++ make
   ```
   
 2. Stiahnite Valgrind 3.12.0 príkazom:

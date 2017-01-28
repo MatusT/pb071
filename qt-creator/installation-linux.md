@@ -9,13 +9,13 @@ V tejto časti sú uvedené príkazy inštalujúce všetky potrebné nástroje p
 ## Ubuntu 16.10
 
 ```
-sudo apt install make gcc gdb qt5-default qtcreator
+sudo apt install make gcc g++ gdb qt5-default qtcreator
 ```
 
 ## Fedora 25
 
 ```
-sudo dnf install make gcc gdb qt5*-devel qt-creator
+sudo dnf install make gcc g++ gdb qt5*-devel qt-creator
 ```
 
 # Všeobecný postup - inštalátor {#installer}
