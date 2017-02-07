@@ -4,7 +4,12 @@ Na začietok váschcem upozorniť, že ak vlastníte njanovšiu verziu operačn�
 
 Na inštaláciu máte tri možnosti:
 
-* #### Ak ste si nainštalovali alebo nainštalujete [Homebrew](/qt-creator/homebrew-osx.md), otvorte terminál a napíšte:
+1. [Pomocou homebrew](/valgrind/installation_mac.md/posib1)
+2. ine
+
+
+
+* #### Ak ste si nainštalovali alebo nainštalujete [Homebrew](/qt-creator/homebrew-osx.md), otvorte terminál a napíšte: {#posib1}
 
 ```terminal
 brew install valgrind
@@ -19,7 +24,7 @@ Error: An unsatisfied requirement failed this build.
 
 V tomto prípade použite druhú možnosť inštalácie.
 
-* #### Ak Homebrew nemáte, stiahnite si inštalačnú binárku pre [Vallgrind](http://valgrind.org/downloads/).
+* #### Ak Homebrew nemáte, stiahnite si inštalačnú binárku pre [Vallgrind](http://valgrind.org/downloads/). {#posib2}
 
 Pozor! limited support for 10.11 and 10.12
 
@@ -50,7 +55,7 @@ make
 
 A dúfajte, všetko prebehne v poriadku. Ak nie, skúste tretiu možnosť
 
-* #### Otvorte terminál a presunte na \(pomocou cd {directory}\) na miesto, kam chcete valgrind stiahnuť.
+* #### Otvorte terminál a presunte na \(pomocou cd {directory}\) na miesto, kam chcete valgrind stiahnuť. {#posib3}
 
 Postupne aplikujte nasledovné príkazy v termináli:
 
