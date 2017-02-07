@@ -1,6 +1,8 @@
 # Valgrind na Mac OS X {#intro}
 
-Máte tri možnosti
+Na začietok váschcem upozorniť, že ak vlastníte njanovšiu verziu operačného systému OS X Sierra, je veľmi pravdepodobné, že sa vám valgrind nepodarí rozbehať.
+
+Na inštaláciu máte tri možnosti:
 
 * #### Ak ste si nainštalovali alebo nainštalujete [Homebrew](/qt-creator/homebrew-osx.md), otvorte terminál a napíšte:
 
