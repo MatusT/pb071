@@ -4,10 +4,6 @@ Na začietok váschcem upozorniť, že ak vlastníte njanovšiu verziu operačn�
 
 Na inštaláciu máte tri možnosti:
 
-1. [Pomocou homebrew](/valgrind/installation_mac.md/posib1)
-2. Pomocou inštalačnej binárky
-3. [Stiahnutím z svn repozitáru](/valgrind/installation_mac.md/posib3)
-
 * #### Ak ste si nainštalovali alebo nainštalujete [Homebrew](/qt-creator/homebrew-osx.md), otvorte terminál a napíšte: {#posib1}
 
 ```terminal
