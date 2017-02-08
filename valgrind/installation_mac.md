@@ -1,6 +1,6 @@
 # Valgrind na Mac OS X {#intro}
 
-Na začietok váschcem upozorniť, že ak vlastníte njanovšiu verziu operačného systému OS X Sierra, je veľmi pravdepodobné, že sa vám valgrind nepodarí rozbehať.
+Na začietok váschcem upozorniť, že ak vlastníte njanovšiu verziu operačného systému OS X Sierra, je veľmi pravdepodobné, že sa vám valgrind nepodarí rozbehať. V tomto prípade odporúčam použiť alternatívu, napríklad vo forme [DrMemory](/git/drmemory-osx.md).
 
 Na inštaláciu máte tri možnosti:
 
