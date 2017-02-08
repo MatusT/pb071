@@ -2,7 +2,8 @@
 
 Inštalačný súbor si stiahnite [TU](https://github.com/DynamoRIO/drmemory/wiki/Downloads).
 
-Otvorte **Terminál**, a presunte sa do priečinku **Downloads**\[Stiahnuté\], prípadne priečinok, v ktorom sa nachádza stiahnutý instalačný súbor. Preveďte nasledujúcu postupnosť krokov.
+Otvorte **Terminál**, a presunte sa do priečinku **Downloads**\[Stiahnuté\], prípadne priečinok, v ktorom sa nachádza stiahnutý inštalačný súbor. Preveďte nasledujúcu postupnosť krokov.   
+Pozor! X.X.X-X bude nahradené vašou aktuálnoe stiahnutou verziou.
 
 ```terminal
 tar xzf DrMemory-MacOS-X.X.X-X.tar.gz
@@ -10,14 +11,14 @@ mv DrMemory-MacOS-X.X.X-X drmemory
 sudo mv drmemory /usr/local/
 ```
 
-Následne modifikujeme Shellovskú PATH, aby sa nám DrMemory lahšie spúšťal.
+Následne modifikujeme shellovskú PATH, aby sa nám DrMemory lahšie spúšťal.
 
 ```terminal
 cd
 nano .bash_profile
 ```
 
-Otvorí sa súbor .**bash\_profile** pripravený pre editovanie. Ak už tento súbor niečo obsahuje, nemažte to.   
+Otvorí sa súbor .**bash\_profile** pripravený pre editovanie. Ak už tento súbor niečo obsahuje, nemažte to.  
 Do súboru vložte nasledovný riadok \(stačí bežným skopírovaním\)
 
 ```terminal
@@ -28,7 +29,7 @@ Stlačte _ctrl + o, následne Enter,_ na potvrdenie uloženia zmien. Potom stla�
 
 Zavrite toto terminálove okno a otvorte nové \(tento krok je podstatný!\).
 
-Napíšte do terminálu 
+Napíšte do terminálu
 
 ```termi
 drmemory
@@ -53,5 +54,5 @@ gcc -m32 -g -fno-inline -fno-omit-frame-pointer main.c -o main
 drmemory -- main
 ```
 
-Za príkaz gcc môžete samozrejme pridať flagy ako -Wextra atď, pre zjednodušenie sa tam nenachádzajú. 
+Za príkaz gcc môžete samozrejme pridať flagy ako -Wextra atď, pre zjednodušenie sa tam nenachádzajú.
 
