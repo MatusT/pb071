@@ -4,10 +4,10 @@
 
 Rozcestník:
 
-* [Inštalácia](https://matust.gitbooks.io/pb071-tutorials/content/xcode/installation.html)
-* [Spustenie projektu](https://matust.gitbooks.io/pb071-tutorials/content/xcode/run.html)
-* [Nastavenie kompilačných parametrov](https://matust.gitbooks.io/pb071-tutorials/content/xcode/compilation.html)
-* [Pridanie súborov do projektu](https://matust.gitbooks.io/pb071-tutorials/content/xcode/create.html)
+* [Inštalácia](/xcode/installation.md)
+* [Spustenie projektu](/xcode/run.md)
+* [Nastavenie kompilačných parametrov](/xcode/compilation.md)
+* [Pridanie súborov do projektu](/xcode/create.md)
 
 
 
