@@ -2,8 +2,10 @@
 
 Inštalačný súbor si stiahnite [TU](https://github.com/DynamoRIO/drmemory/wiki/Downloads).
 
-Otvorte **Terminál**, a presunte sa do priečinku **Downloads**\[Stiahnuté\], prípadne priečinok, v ktorom sa nachádza stiahnutý inštalačný súbor. Preveďte nasledujúcu postupnosť krokov.   
-Pozor! X.X.X-X bude nahradené vašou aktuálnoe stiahnutou verziou.
+Ovorte **terminál**. Ten nájdete v časti **Launchpad &gt; Others**, alebo pomocou rýchleho vyhladávania: stlačte **⌘+Space **a napíšte Terminál.
+
+![](/assets/OSX_terminal.png) a presunte sa do Presunte sa priečinku **Downloads**\[Stiahnuté\], prípadne do priečinku, v ktorom sa nachádza stiahnutý inštalačný súbor. Preveďte nasledujúcu postupnosť krokov.  
+**Pozor**! X.X.X-X bude nahradené vašou aktuálne stiahnutou verziou.
 
 ```terminal
 tar xzf DrMemory-MacOS-X.X.X-X.tar.gz
