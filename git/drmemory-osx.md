@@ -4,7 +4,7 @@ Inštalačný súbor si stiahnite [TU](https://github.com/DynamoRIO/drmemory/wik
 
 Ovorte **terminál**. Ten nájdete v časti **Launchpad &gt; Others**, alebo pomocou rýchleho vyhladávania: stlačte **⌘+Space **a napíšte Terminál.
 
-![](/assets/OSX_terminal.png) 
+![](/assets/OSX_terminal.png)
 
 Presunte sa priečinku **Downloads**, prípadne do priečinku, v ktorom sa nachádza stiahnutý inštalačný súbor \(Pomocou príkazov cd {directory}\). Preveďte nasledujúcu postupnosť krokov.  
 **Pozor**! X.X.X-X bude nahradené vašou aktuálne stiahnutou verziou.
@@ -15,7 +15,7 @@ mv DrMemory-MacOS-X.X.X-X drmemory
 sudo mv drmemory /usr/local/
 ```
 
-Následne modifikujeme shellovskú PATH, aby sa nám DrMemory lahšie spúšťal.
+Následne modifikujeme shellovskú **PATH**, aby sa nám DrMemory lahšie spúšťal.
 
 ```terminal
 cd
@@ -23,16 +23,15 @@ nano .bash_profile
 ```
 
 Otvorí sa súbor .**bash\_profile** pripravený pre editovanie. Ak už tento súbor niečo obsahuje, nemažte to.  
-Do súboru vložte nasledovný riadok \(stačí bežným skopírovaním\)
+Do súboru vložte nasledovný riadok \(stačí bežným skopírovaním\).
 
 ```terminal
 export PATH="/usr/local/drmemory/bin/:$PATH"
 ```
 
-Stlačte _ctrl + o, následne Enter,_ na potvrdenie uloženia zmien. Potom stlačte _ctrl+x_, čím opustíte súbor a jeho editovanie.
+Stlačte **ctrl + o**_, následne _**Enter**_,_ na potvrdenie uloženia zmien. Potom stlačte** ctrl+x**, čím opustíte súbor a jeho editovanie.
 
-Zavrite toto terminálove okno a otvorte nové \(tento krok je podstatný!\).
-
+Zavrite toto terminálove okno a otvorte nové \(tento krok je podstatný!\).  
 Napíšte do terminálu
 
 ```termi
@@ -51,7 +50,9 @@ Run with -help for full option list.
 See http://drmemory.org/docs/ for more information.
 ```
 
-Predpokladajme program pozostávajúci z jediného súboru** main.c**. Prítomnosť memory leakov vo vašom programe otestujete nasledovne.
+#### Použitie DrMemory
+
+Predpokladajme program pozostávajúci z jediného súboru** main.c**. Prítomnosť memory leakov vo vašom programe otestujete nasledovne. Flagy** -m32 -g -fno-inline -fno-omit-frame-pointer **sú pre kompiláciu potrebné, a binárka skompilovaná bez nich nemusí byť validným vstupom pre aplikáciu drmemory.
 
 ```terminal
 gcc -m32 -g -fno-inline -fno-omit-frame-pointer main.c -o main
