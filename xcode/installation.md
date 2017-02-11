@@ -1,7 +1,7 @@
 ## Inštalácia {#xcode-installer}
 
 Je veľmi pravdepodobné, že Xcode už máte nainšatovaný automaticky, to však neznamená, že máte najnovšiu verziu, Xcode 8.  
-Tá pre potreby tohto predmetu nie je potrebná, avšak tutoriál je písaný pre Xcode8, takže niektoré časti nemusia presne sedieť s poskytnutými obrázkami v tutoriále.
+Tá pre potreby tohto predmetu nie je potrebná, avšak tutoriál je písaný pre Xcode8, takže niektoré časti nemusia presne sedieť s poskytnutými obrázkami v tutoriáli.
 
 Otvorte App Store, a vyhladajte Xcode. Následne ho nainštalujte.
 
