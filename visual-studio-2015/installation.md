@@ -26,7 +26,7 @@ Stiahnite si Visual Studio **Community** na adrese [https://www.visualstudio.com
 
      ![](/visual-studio-2015/images/firstrun_1.png)
 
-2. Následne dostanete na výber usporiadanie a vzhľad. V tomto predmete sa Vám bude hodiť _Development Settings_ mať nastavené na **Visual C++**. Vzhľad je čisto o Vašich preferenciách, v tomto tutoriály bude preferovaný vzhľad **Blue**.
+2. Následne dostanete na výber usporiadanie a vzhľad. V tomto predmete sa Vám bude hodiť _Development Settings_ mať nastavené na **Visual C++**. Vzhľad je čisto o Vašich preferenciách, v tomto tutoriáli bude preferovaný vzhľad **Blue**.
 
    ![](/visual-studio-2015/images/firstrun_2.png)
 
