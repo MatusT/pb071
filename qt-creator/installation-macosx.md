@@ -1,6 +1,6 @@
 ## Inštalácia Qt na Mac OS X
 
-Inštalačný súbor si stiahnite na [tejto](///www.qt.io/download-open-source/) stránke. Kliknite na _Download Now_.
+Inštalačný súbor si stiahnite na [tejto](www.qt.io/download-open-source/) stránke. Kliknite na _Download Now_.
 
 ![](/assets/OSX_install0.jpg)
 
