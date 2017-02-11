@@ -11,5 +11,5 @@ Malo by sa otvoriť okno pre súhlas s licenčnými podmienkami, a následne by 
 
 ![](/assets/Xcode_install2.png)![](/assets/Xcode_install3.jpg)
 
-Pokračujte ďalej na Spustenie projektu.
+Pokračujte ďalej na[ Spustenie projektu](/xcode/run.md).
 
