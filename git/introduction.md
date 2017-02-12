@@ -14,3 +14,5 @@ Velké výhody má používanie verzovacieho software v skupine:
   * práca výdy s aktuálnymi zdrojákmi (nemusíte zisťovať mailom, kto má aktuálnu verziu a kto posledý urobil zmeny)
   * možnosť práce "offline" (úpravy ktoré nenahrávate na server, neblokujete ostatných vývojárov - pri násjednom nahraváni sa zmeny spoja)
   * vytváranie nezávyslých vźvojárskych vetiev
+
+Návod pre pokročílejších [git](https://wiki.archlinux.org/index.php/git#Usage)
