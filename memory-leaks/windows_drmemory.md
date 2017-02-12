@@ -1,1 +1,4 @@
-memory_leaks/windows_drmemory
+# Windows a Dr. Memory
+## Inštalácia
+## Použitie
+# Kam ďalej
