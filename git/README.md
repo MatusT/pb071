@@ -3,7 +3,7 @@
 Rozcestník:
 
 * [Úvod](../git/introduction.md)
-* [Začiatok semestra](../git/semester-begining.md)
+* [Začiatok semestra](../git/beginning-of-semester.md)
 * [Úloha hello](../git/hello.md)
 
 * [Inštalácia](../git/installation.md)

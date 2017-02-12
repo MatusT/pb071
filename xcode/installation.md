@@ -1,6 +1,7 @@
 ## Inštalácia {#xcode-installer}
 
-Je veľmi pravdepodobné, že Xcode už máte nainšatovaný automaticky, to však neznamená, že máte najnovšiu verziu, Xcode 8.
+Je veľmi pravdepodobné, že Xcode už máte nainšatovaný automaticky, to však neznamená, že máte najnovšiu verziu, Xcode 8.  
+Tá pre potreby tohto predmetu nie je potrebná, avšak tutoriál je písaný pre Xcode8, takže niektoré časti nemusia presne sedieť s poskytnutými obrázkami v tutoriáli.
 
 Otvorte App Store, a vyhladajte Xcode. Následne ho nainštalujte.
 
@@ -10,5 +11,5 @@ Malo by sa otvoriť okno pre súhlas s licenčnými podmienkami, a následne by 
 
 ![](/assets/Xcode_install2.png)![](/assets/Xcode_install3.jpg)
 
-Pokračujte ďalej na Spustenie projektu.
+Pokračujte ďalej na[ Spustenie projektu](/xcode/run.md).
 

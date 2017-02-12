@@ -7,6 +7,10 @@
 ## Základné
 
 * [Git](git/README.md)
+  * [Úvod](git/introduction.md)
+  * [Začiatok semestra](git/beginning-of-semester.md)
+  * [Úloha hello](git/hello.md)
+
   * [Inštalácia](git/installation.md)
     * [Windows](git/installation-windows.md)
     * [Linux](git/installation-linux.md)
