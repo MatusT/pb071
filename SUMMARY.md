@@ -1,4 +1,4 @@
-# Summary
+# Rozcestník
 
 ## Návody PB071
 
@@ -22,7 +22,7 @@
 * [Valgrind a Dr. Memory](memory-leaks/README.md)
   * [Windows a Dr. Memory](memory-leaks/windows_drmemory.md)
   * [Linux a Valgrind](memory-leaks/linux_valgrind.md)
-  * [Mac OS X a Dr. Memory](memory-leaks/macosx_drmemory.md)
+  * [Mac OS X a Dr. Memory](memory-leaks/macos_drmemory.md)
 * [Doxygen](qt-creator/doxygen.md)
   * [Inštalácia](doxygen/installation.md)
     * [Windows](doxygen/installation_windows.md)
