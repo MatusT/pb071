@@ -11,5 +11,11 @@
 2. Pomocou príkazu **cd** zanavigujte do priečinka so skompilovaným programom. *Qt Creator* vytvára zložku **build-projekt** vedľa folderu projektu a v nej ďalej rozdeluje na Debug a Release, pričom zvoliť by ste mali **Debug**.
 3. Zavolajte príkaz **drmemory nazov-suboru.exe**, aby ste spustili drmemory nad Vaším programom.
 
+Pre program:
+
+```
+efssdf
+```
+
 # Kam ďalej
 
