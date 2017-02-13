@@ -1,3 +1,3 @@
 # Kam ďalej
 
-Po 
+Po vytvorení programu a odchytení všetkých chýb, je žiadúce aby ste daný kód aj zdokumentovali. Pokračujte tutoriálom na dokumentovací nástroj [Doxygen](../memory-leaks/README.md).
