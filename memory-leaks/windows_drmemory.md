@@ -56,6 +56,4 @@ Najpodstatnejší je pre nás riadok, ktorý dáva informáciu o presnom riadku 
 ~~Dr.M~~ # 1 main [c:\users\matus\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.c:5]
 ```
 
-
-# Kam ďalej
-
+{% include "./next.md" %}
