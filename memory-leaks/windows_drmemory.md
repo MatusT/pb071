@@ -51,7 +51,7 @@ Bude výstup:
 ~~Dr.M~~ Details: C:\Users\matus\AppData\Roaming\Dr. Memory\DrMemory-ConsoleApplication1.exe.7832.000\results.txt
 ```
 
-Najpodstatnejší je pre nás riadok, ktorý dáva informáciu o presnom riadku kódu a súbore, kde sa alokuje nedealokovaná pamäť.
+Najpodstatnejší je pre nás riadok, ktorý dáva informáciu o presnom riadku kódu a súbore, kde sa alokuje nedealokovaná pamäť. (main.c, riadok č. 5)
 ```
 ~~Dr.M~~ # 1 main [c:\users\matus\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.c:5]
 ```
