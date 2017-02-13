@@ -32,7 +32,7 @@ Bude výstup:
 ```
 ~~Dr.M~~ Error #1: LEAK 100 direct bytes 0x01350860-0x013508c4 + 0 indirect bytes
 ~~Dr.M~~ # 0 replace_malloc               [d:\drmemory_package\common\alloc_replace.c:2576]
-**~~Dr.M~~ # 1 main                         [c:\users\matus\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.c:5]**
+~~Dr.M~~ # 1 main                         [c:\users\matus\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.c:5]
 ~~Dr.M~~
 ~~Dr.M~~ ERRORS FOUND:
 ~~Dr.M~~       0 unique,     0 total unaddressable access(es)
@@ -41,7 +41,7 @@ Bude výstup:
 ~~Dr.M~~       0 unique,     0 total GDI usage error(s)
 ~~Dr.M~~       0 unique,     0 total handle leak(s)
 ~~Dr.M~~       0 unique,     0 total warning(s)
-**~~Dr.M~~       1 unique,     1 total,    100 byte(s) of leak(s)**
+~~Dr.M~~       1 unique,     1 total,    100 byte(s) of leak(s)
 ~~Dr.M~~       0 unique,     0 total,      0 byte(s) of possible leak(s)
 ~~Dr.M~~ ERRORS IGNORED:
 ~~Dr.M~~       8 potential error(s) (suspected false positives)
