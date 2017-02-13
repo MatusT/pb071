@@ -8,14 +8,13 @@
 
 * [Git](git/README.md)
   * [Úvod](git/introduction.md)
-  * [Začiatok semestra](git/beginning-of-semester.md)
-  * [Úloha hello](git/hello.md)
-
   * [Inštalácia](git/installation.md)
     * [Windows](git/installation-windows.md)
     * [Linux](git/installation-linux.md)
     * [Mac OS X](git/installation-macosx.md)
-* [Qt Creator](qt-creator/README.md)
+  * [Začiatok semestra](git/beginning-of-semester.md)
+  * [Úloha hello](git/hello.md)
+* [Q Creator](qt-creator/README.md)
   * [Inštalácia](qt-creator/installation.md)
     * [Windows](qt-creator/installation-windows.md)
     * [Linux](qt-creator/installation-linux.md)
