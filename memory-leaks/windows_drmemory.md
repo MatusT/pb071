@@ -13,9 +13,26 @@
 
 Pre program:
 
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+	int *a = malloc(100);
+
+	printf("%d", *a);
+
+	return 0;
+}
+
 ```
-efssdf
+
+Bude výstup:
+
 ```
+
+```
+
 
 # Kam ďalej
 
