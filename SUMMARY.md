@@ -38,7 +38,6 @@
   * [Windows](ssh/windows.md)
   * [Linux & Mac OS X](ssh/linux.md)
 * [Homebrew for OS X](qt-creator/homebrew-osx.md)
-* [DrMemory for OSX](git/drmemory-osx.md)
 
 ## Pokročilé
 
