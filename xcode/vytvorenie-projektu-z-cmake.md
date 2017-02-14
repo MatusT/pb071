@@ -1,6 +1,6 @@
 ### Vytvorenie Xcode projektu pomocou cmake
 
-Na začiatok si nainšalujte [cmake](/cmake/os-x.md).
+Na začiatok si nainšalujte [cmake](/git/cmake-os-x.md).
 
 Stiahnite si priečinok s domácou úlohou, v prípade potreby ho odzipujte. Pre ukážky tutorálu predpokldám výskyt domácej úlohy v priečinku _/Users/Kejsty/Downloads/hw01/_, a chcem rozbaliť úlohu do priečinku _/Users/Kejsty/Documents/Skola/PB071/hw01_
 

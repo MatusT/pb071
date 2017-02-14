@@ -14,6 +14,8 @@
     * [Mac OS X](git/installation-macosx.md)
   * [Začiatok semestra](git/beginning-of-semester.md)
   * [Úloha hello](git/hello.md)
+* [Cmake](git/cmake.md)
+  * [Os X](git/cmake-os-x.md)
 * [Q Creator](qt-creator/README.md)
   * [Inštalácia](qt-creator/installation.md)
     * [Windows](qt-creator/installation-windows.md)
@@ -38,8 +40,6 @@
   * [Windows](ssh/windows.md)
   * [Linux & Mac OS X](ssh/linux.md)
 * [Homebrew for OS X](qt-creator/homebrew-osx.md)
-* [Cmake](cmake)
-  * [Os X](cmake/os-x.md)
 
 ## Pokročilé
 
