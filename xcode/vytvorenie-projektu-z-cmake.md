@@ -13,9 +13,11 @@ cmake -G Xcode . -- CMAKE_SOURCE_DIR = /Users/Kejsty/Downloads/hw01/,   CMAKE_BI
 
 ![](/assets/CmakeProjectXcode.png)
 
-....TODO...
+V priloženom obrázku je vidieť, že príkaz vygeneroval súbor s príponou _.xcodeproj_. Tento súbor je náš novo vygenerovaný Xcode projekt. Otvoríme teda aplikáciu Xcode, a vyberieme možnosť *Open another project*.
 
 ![](/assets/CmakeProjectXcode2.png)
+
+
 
 ![](/assets/CmakeProjectXcode3.png)
 
