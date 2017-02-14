@@ -25,9 +25,11 @@ Projekty vygenerované pomocou cmake majú o niečo zložitejšiu štruktúru, a
 
 ![](/assets/CmakeProjectXcode4.png)
 
+Na spustenie binárky **hw01_pow** rozbalte menu pre výber vpravo hore (viď obrázok) a vyberte **hw01_pow**.
+
 ![](/assets/CmakeProjectXcode5.png)
 
-
+Po vybratí stlačte **Run** (ikonka play). Rovnakým spôsobom spustíte aj ostatné binárky.
 
 ![](/assets/CmakeProjectXcode6.png)
 
