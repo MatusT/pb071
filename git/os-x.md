@@ -8,7 +8,7 @@ Otvorte terminál, a postupujte nasledovne
 brew install cmake
 cd
 ```
-Je pravdepodobné, že brew nepridal cmake do vašej PATH. Otvoríme teda súbor
+Je pravdepodobné, že brew nepridal cmake do vašej PATH. Otvoríme teda súbor _.bash_profile_ a pridáme cmake do vašej PATH.
 
 ```terminal
 cd
