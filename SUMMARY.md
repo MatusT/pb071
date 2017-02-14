@@ -38,6 +38,8 @@
   * [Windows](ssh/windows.md)
   * [Linux & Mac OS X](ssh/linux.md)
 * [Homebrew for OS X](qt-creator/homebrew-osx.md)
+* Cmake
+  * [Os X](git/os-x.md)
 
 ## Pokročilé
 
