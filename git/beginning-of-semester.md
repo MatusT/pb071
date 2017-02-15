@@ -1,6 +1,8 @@
 ## Začiatok semestra
 
-Na odovzdávanie úloh budete musieť vytvoriť repozitár `pb071` a v nastaveniach (ozubené koliesko vpravo hore) `Members → Share project with other groups` nastaviť skupine `pb071` práva `Reportér`. 
+Po inštalácii Git-u, je potrebné sa prihlásiť na fakultný GitLab.
+
+Na odovzdávanie úloh si budete musieť vytvoriť repozitár `pb071` a v nastaveniach (ozubené koliesko vpravo hore) v `Members → Share project with other groups` nastaviť skupine `pb071` práva `Reportér`. 
 
 Každá úloha bude pozostávať z adresáru s názvom úlohy (napr hw01 alebo hw02) a v ňom súbory ktoré budú popísané v zadaní.
 
@@ -22,4 +24,6 @@ pb071
 
 Viac informácií o fakultnom gitlabe nájdete na stránke [https://gitlab.fi.muni.cz](https://gitlab.fi.muni.cz)
 
-TODO: SSHKEY
+### (Dobrovoľné) vytvorenie SSH kľúča
+[oficiálny návod](https://docs.gitlab.com/ce/ssh/README.html), po nastavení ssh kľúča, pri zmeách sa nebude od vás
+vyžadovať xlogin a heslo (pri `git pull`, `git push`), ale na autentizaciu sa použije asymetrický kľúč.

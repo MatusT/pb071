@@ -7,7 +7,14 @@ Pri inštalácii sa uistite, že ste si zvolili:
 
 Po inštalácii v Power Shelle alebo Príkazovom riadku (alebo Git Bash) je dobré nastaviť si editor, ktorý Git otvorí pri chýbajúcej správe pri commitovaní:
 
+Nastavenie editora na commit správu:
 ```
 git config --global core.editor notepad
+# alebo 
+git config --global core.editor {editor podľa vášho výberu}
+```
+
+Nastavenie zarovnania commit správy:
+```
 git config --global format.commitMessageColumns 80
 ```
