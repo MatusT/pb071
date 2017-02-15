@@ -1,4 +1,4 @@
-### DrMemory on OSX
+#DrMemory on OSX
 
 Inštalačný súbor si stiahnite [TU](https://github.com/DynamoRIO/drmemory/wiki/Downloads).
 
