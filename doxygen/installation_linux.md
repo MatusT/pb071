@@ -15,6 +15,7 @@ sudo apt-get install doxygen
 ### Fedora 25
 
 ```
-sudo dnf install valgrind
+sudo dnf install doxygen
+
 ```
 
