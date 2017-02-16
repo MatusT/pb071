@@ -29,6 +29,7 @@
   * [Linux a Valgrind](memory-leaks/linux_valgrind.md)
   * [Mac OS X a Dr. Memory](memory-leaks/macos_drmemory.md)
   * [Mac OS X a Valgrind](memory-leaks/mac-osx-valgrind.md)
+  * [Valgrind - použitie](memory-leaks/valgrind-pouzitie.md)
 * [Doxygen](qt-creator/doxygen.md)
   * [Inštalácia](doxygen/installation.md)
     * [Windows](doxygen/installation_windows.md)
