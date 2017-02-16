@@ -9,7 +9,6 @@
 
 ```
 gcc -std=c99 -g -o main main.c
-
 valgrind --leak-check=full --show-reachable=yes ./main
 ```
 
