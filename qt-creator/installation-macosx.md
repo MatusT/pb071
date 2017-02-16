@@ -70,3 +70,17 @@ Ak nie, odporúčam vytvoriť nový Kit. V záložke Kits kliknite na **Add** a 
 ![](/assets/CmakeQtOsx4.jpg)
 
 
+## Otvorenie projektu pomocou CMakeListu
+
+Predpokldajme súbor _main.c_ a k nemu príslušný **CMakeList.txt**. Tento projekt chceme naimportovat do Qt.
+
+![](/assets/CmakeQtOsx.png)
+
+Otvoríme aplikáciu a vyberieme možnosť **Open Project**, a vyberieme súbor **CMakeList.txt**.
+Následne vyberieme ktorý Kit chceme použiť. Príklad predpokladá, že bol vytvorený nový Kit s menom **MyKit**
+
+Vyplnťe možnosti podľa príkladu a kliknite na **Configure Project**
+
+![](/assets/CmakeQtOsx5.jpg)
+
+
