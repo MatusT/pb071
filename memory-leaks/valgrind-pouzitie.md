@@ -1,7 +1,16 @@
 # Valgrind použitie
 
 
-```
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    printf("Hello, World!\n");
+    int *leak = malloc(sizeof(int));	
+    return 0;
+}
+
 ```
 
 
