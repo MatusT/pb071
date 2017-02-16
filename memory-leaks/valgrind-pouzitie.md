@@ -17,13 +17,13 @@ int main() {
 
 
 
-```
+```terminal
 gcc -std=c99 -g -o main main.c
 valgrind --leak-check=full --show-reachable=yes ./main
 ```
 
 
-```
+```terminal
 ==18827== Memcheck, a memory error detector
 ==18827== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
 ==18827== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
