@@ -1,5 +1,6 @@
 # Valgrind použitie
 
+Majme nasledovný ukážkový main súbor, obsahujúci jedinú alokáciu pamäte, ktorá nie je uvoľnená, a teda na tomto mieste dochádza k **memory leaku**.
 
 ```c
 #include <stdio.h>
