@@ -27,11 +27,11 @@ valgrind --leak-check=full --show-reachable=yes ./main
 
 Vo výstupe z valgrindu môžeme vidieť: 
 
-* _Hello, World!_ hovorí, aký bol output spustenej binárku **main**
+* _Hello, World!_ hovorí, aký bol output spustenej binárky **main**
 
 * _in use at exit: 4 bytes in 1 blocks_ hovorí, že sme neuvoľnili všetkú alokovanú pamäť.
 
-*_4 bytes in 1 blocks are definitely lost in loss record 1 of 1_ spolu s _by 0x400581: main (main.c:7)_ nám následne hovorí, kde alokácia nastala. V našom prípade ide práve o alokáciu premennej _leak_
+* _4 bytes in 1 blocks are definitely lost in loss record 1 of 1_ spolu s _by 0x400581: main (main.c:7)_ nám následne hovorí, kde alokácia nastala. V našom prípade ide práve o alokáciu premennej **leak**
 
 
 ```terminal
