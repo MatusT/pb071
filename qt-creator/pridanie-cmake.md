@@ -16,5 +16,3 @@ Pre Linux a OS X otvorte terminál a napíšte
 ```
 which cmake
 ```
-
-TODO : Windows
