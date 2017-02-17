@@ -9,7 +9,11 @@ Pokračujte návodom na [Qt Creator](../qt-creator/README.md)
 ## Command line
 
 1. Spustite command line(PowerShell vo Windows, Bash v linuxe...)
-2. Vytvorte folder príkazom **mkdir**, kde sa bude program kompilovať(nie ten istý, kde je zrojový kód!). Typicky sa volí vedľa foldera s kódom, napríklad pre hw01 to bude vyzerať približne takto:
+2. Vytvorte folder príkazom **mkdir**, kde sa bude program kompilovať:
+   - folder kde je zrojový kód nesmie byť rovnaký ako folder kde sa bude program kompilovať
+   - folder so zdrojovým kódom musí obsahovať CMakeLists.txt
+   
+Typicky sa volí vedľa foldera s kódom, napríklad pre hw01 to bude vyzerať približne takto:
 
 ```
 PS C:\Users\MatusT\Documents\Projects\pb071-homeworks> mkdir hw01-build
