@@ -40,7 +40,7 @@
 
 1. Pre pridanie nového súboru do projektu zvoľte v menu **File → New File or Project**
 
-  ![](/images/qt-creator/newfile.png)
+  ![](/images/qt-creator/new_file.png)
   
 2. Z templatov vyberte **C++ → C++ Source/Header** - source pre zdrojový .c súbor a header pre hlavičkový .h súbor.
 
