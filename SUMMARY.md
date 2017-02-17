@@ -41,7 +41,7 @@
     * [Mac OS X](doxygen/installation_mac.md)
   * [Písanie dokumentácie](doxygen/document.md)
   * [Generovanie dokumentácie](doxygen/generate.md)
-* [SSH a AISA](ssh/README.md)
+* [AISA](ssh/README.md)
   * [Windows](ssh/windows.md)
   * [Linux & Mac OS X](ssh/linux.md)
 * [Homebrew for OS X](qt-creator/homebrew-osx.md)
