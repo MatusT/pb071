@@ -36,7 +36,10 @@ Následne stačí kliknúť na ikonku spustenia/kompilácie. Pri spustení sa au
 
 ![](/images/qt-creator/compile_01.png)
 
-Ak projekt generuje viacej spustiteľných súborov, kliknutím na ikonku nad ikonkou spustenia programu môžete vybrať tú, ktorú chcete spustiť.
+Ak projekt generuje viacej spustiteľných súborov, kliknutím na ikonku nad ikonkou spustenia programu môžete vybrať tú, ktorú chcete spustiť.  
+![](/images/qt-creator/binaries.png)
+
+
 
 
 
