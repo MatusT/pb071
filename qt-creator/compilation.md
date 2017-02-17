@@ -6,7 +6,7 @@ Ak ste postupovali podľa [návodu](/qt-creator/installation.md) pri inštaláci
 
 Je termín, ktorý Qt Creator používa na označenie zoskupenia nástrojov slúžiacich na:
 
-* otvorenie projektového súboru\(**cmake **pre súbory **.CMakeLists.txt**\)
+* otvorenie projektového súboru\(**cmake **pre súbory **CMakeLists.txt**\)
 * kompiláciu projektu\(**gcc/MinGW**\)
 * debuggovanie\(**gdb**\)
 
@@ -18,7 +18,7 @@ V menu **Tools → Options → Build & Run** môžete pridávať nové kit-y ale
 
 ## Otvorenie projektu {#open}
 
-Otvorte projekt pomocou **File → Open Project...**. Po otvorení je projekt nájditeľný aj vo _Welcome_ obrazovke Qt Creatora v kategórii _Recent Projects_.
+Otvorte projekt pomocou **File → Open Project...**. Zvoľte CMakeLists.txt súbor. Po otvorení je projekt nájditeľný aj vo _Welcome_ obrazovke Qt Creatora v kategórii _Recent Projects_.
 
 ![](/images/qt-creator/open_01.png)
 

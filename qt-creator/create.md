@@ -46,7 +46,7 @@
 
   ![](/images/qt-creator/newfile_02.png)
 
-3. Pomenujte svoj súboor
+3. Pomenujte svoj súboor a umisetnite ho tam, kde sa nachádza Váš projekt(kde máte CMakeLists.txt)
 
   ![](/images/qt-creator/newfile_03.png)
 
