@@ -16,13 +16,9 @@ V menu **Tools → Options → Build & Run** môžete pridávať nové kit-y ale
 
 > V prípade, že nebudete mať žiadny alebo chybný kit\(ukazuje warning alebo error značku pri názve\), skontrolujte si postup inštalácie podľa návodu a prípadne sa obráťte na cvičiaceho.
 
-Priložené sú obrázky ukazujúce správnu konfiguráciu v systémoch Windows a Ubuntu.
-
-![](/images/qt-creator/setup_02.png)
-
 ## Otvorenie projektu {#open}
 
-Ak ste nechali v inštalácii zaškrtnutú možnosť _Associate common file types with Qt Creator_, stačí kliknúť na **.pro** súbor pre otvorenie. V opačnom prípade sa dá použiť **File → Open Project...**. Po otvorení je projekt nájditeľný aj vo _Welcome_ obrazovke Qt Creatora v kategórii _Recent Projects_.
+Otvorte projekt pomocou **File → Open Project...**. Po otvorení je projekt nájditeľný aj vo _Welcome_ obrazovke Qt Creatora v kategórii _Recent Projects_.
 
 ![](/images/qt-creator/open_01.png)
 
@@ -39,6 +35,10 @@ Pred spustením si skontrolujte nastavenie _Run in terminal_ v **Projects → Ru
 Následne stačí kliknúť na ikonku spustenia/kompilácie. Pri spustení sa automaticky skompilujú zmeny prevedené od poslednej kompilácie. Ak nastanú pri kompilácii chyby, budú zobrazené v okne **4 Compile Output**. Pri dvojitom kliknuti na jednotlivé chybové hlášky budete presmerovaný na súbor a riadok, kde kompilačná chyba nastala.
 
 ![](/images/qt-creator/compile_01.png)
+
+Ak projekt generuje viacej spustiteľných súborov, kliknutím na ikonku nad ikonkou spustenia programu môžete vybrať tú, ktorú chcete spustiť.
+
+
 
 # Kam ďalej {#next}
 
