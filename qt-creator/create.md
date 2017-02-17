@@ -12,9 +12,9 @@
 
   ![](/images/qt-creator/create_03.png)
 
-4. Build system nastavte na **qmake**
+4. Build system nastavte na **CMake**
 
-  ![](/images/qt-creator/create_04.png)
+  ![](/images/qt-creator/create_04_cmake.png)
 
 5. Ak ste postupovali správne podľa návodu, budete mat práve jeden kit s gcc/MinGW
 
