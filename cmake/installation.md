@@ -1,4 +1,4 @@
-Rozcestník:
+# Inštalácia {#intro}
 
 * [Inštalácia](../cmake/installation.md)
   * [Windows](../cmake/installation-windows.md)
