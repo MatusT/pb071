@@ -4,7 +4,7 @@ Aby netrebalo pre každý jeden program, ktorý chcete vygenerovať z Vašich zd
 
 - ako sa má program skompilovať
 - z ktorých súborov sa má skompilovať
-- koľko binárnych a a knižničných(.dll/.so) súborov má vygenerovať
+- koľko binárnych a knižničných(.dll/.so) súborov má vygenerovať
 
 Každému projektu/úlohe bude zodpovedať jeden opisný súbor s názvom CMakeLists.txt. Tento súbor potom vedia čítať aj jednotlivé IDE.
 
