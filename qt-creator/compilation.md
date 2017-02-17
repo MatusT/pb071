@@ -16,7 +16,7 @@ V menu **Tools → Options → Build & Run** môžete pridávať nové kit-y ale
 
 > V prípade, že nebudete mať žiadny alebo chybný kit\(ukazuje warning alebo error značku pri názve\), skontrolujte si postup inštalácie podľa návodu a prípadne sa obráťte na cvičiaceho.
 
-Priložené sú obrázky ukazujúce správnu konfiguráciu v jednotlivých systémoch Windows, Ubuntu, Mac OS.
+Priložené sú obrázky ukazujúce správnu konfiguráciu v systémoch Windows a Ubuntu.
 
 ![](/images/qt-creator/setup_02.png)
 
