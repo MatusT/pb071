@@ -1,2 +1,2 @@
 # Kam ďalej
-Po úspešnom nainštalovaní CMake, pokračujte [naučením sa ho používať](../cmake/use.md).
+Po úspešnom nainštalovaní CMake, pokračujte [návodom na jeho použitie](../cmake/use.md).
