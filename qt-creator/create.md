@@ -24,23 +24,23 @@
 
   ![](/images/qt-creator/create_06.png)
 
-7. Do konfiguračného súboru projektu(.pro) pridajte nastavenia pre kompilátor používané v tomto predmete:
+7. Do konfiguračného súboru projektu(CMakeLists.txt) pridajte nastavenia pre kompilátor používané v tomto predmete:
    ```
-   QMAKE_CFLAGS = -std=c99 -pedantic -Wall -Werror
+   set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -std=c99 -Wall -Wextra -Werror")
    ```
    Jednotlivé nastavenia znamenajú nasledovné:
    - **std=c99** - nastaví štandard jazyka, podľa ktorého má kompilátor kontrolovať na C99(vyučovaná verzia v PB071)
    - **pedantic** - nastaví striktné dodržiavanie štandardu, kompilátorom neprejdu žiadne rozšírenia štandardu, zahlási všetky chyby vyžadované štandardom
    - **Wall** - skratka pre *Warnings All*, pri tomto nastavení bude kompilátor upozorňovať aj na možné chyby, ktoré nie sú vynucované štandardom
    - **Werror** - skratka pre *Warning as error*, každé upozornenie bude brané ako chyba
-  
-  ![](/images/qt-creator/create_07.png)
+     
+     ![](/images/qt-creator/create_07.png)
   
 ## Pridávanie nových súborov {#add-file}
 
-1. Pre pridanie nového súboru do projektu buď zvoľte v menu **File → New File or Project** alebo pravým kliknutím na názov projektu otvorte kontextové menu a zvoľte **Add New**
+1. Pre pridanie nového súboru do projektu zvoľte v menu **File → New File or Project**
 
-  ![](/images/qt-creator/newfile_01.png)
+  ![](/images/qt-creator/newfile.png)
   
 2. Z templatov vyberte **C++ → C++ Source/Header** - source pre zdrojový .c súbor a header pre hlavičkový .h súbor.
 
@@ -50,7 +50,7 @@
 
   ![](/images/qt-creator/newfile_03.png)
 
-4. Zvoľte projekt, do ktorého má byť pridaný. Ak ste na začiatku už zvolili projekt, tak bude prednastavený. Môžete tiež rovno tento súbor pridať do git repozitár. Qt Creator potom vykoná príkaz *git add vas_subor*.
+4. Zvoľte projekt, do ktorého má byť pridaný. Ak ste na začiatku už zvolili projekt, tak bude prednastavený. Môžete tiež rovno tento súbor pridať do git repozitára. Qt Creator potom vykoná príkaz *git add vas_subor*.
 
   ![](/images/qt-creator/newfile_04.png)
 
