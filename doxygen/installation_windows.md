@@ -22,5 +22,3 @@
 6. Spustite inštaláciu
 
    ![](/images/cmake/install_windows_05.png)
-
-{% include "./installation-next.md" %}
