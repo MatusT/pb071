@@ -1,5 +1,5 @@
 # Inštalácia {#intro}
 
-* [Windows](../doxygen/installation-windows.md)
-* [Linux](../doxygen/installation-linux.md)
-* [macOS](../doxygen/installation-macos.md)
+* [Windows](./installation-windows.md)
+* [Linux](./installation-linux.md)
+* [macOS](./installation-macos.md)
