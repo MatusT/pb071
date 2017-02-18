@@ -59,5 +59,6 @@
   * [Nastavenie kompilačných parametrov](xcode/compilation.md)
   * [Pridanie súborov do projektu](xcode/create.md)
   * [Vytvorenie projektu z cmake](xcode/vytvorenie-projektu-z-cmake.md)
+* Virtuálny stroj
 * [Ubuntu on Windows](ubuntu-on-bash/README.md)
 

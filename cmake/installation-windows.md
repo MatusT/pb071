@@ -2,7 +2,7 @@
 
 1. Stiahnie si inštalátor zo stránky [https://cmake.org/files/v3.7/cmake-3.7.2-win64-x64.msi](https://cmake.org/files/v3.7/cmake-3.7.2-win64-x64.msi)
 
-2. Postupujte v inštalátore
+2. Spustite inštalátor a postupujte
 
    ![](/images/cmake/install_windows_01.png)
    
