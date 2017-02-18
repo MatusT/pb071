@@ -1,6 +1,6 @@
 # Doxygen {#intro}
 
-Aby sa mohli viacerí ľudia zapojiť do vývoja programu, alebo vedeli ako používať Váš program, či knižnicu, je vyžadované písať dokumentáciu. Pre C/C++ kód sa najčastejšie používa nástroj Doxygen. 
+Aby sa mohli viacerí ľudia zapojiť do vývoja programu, alebo vedeli ako používať Váš program, či knižnicu, je vyžadované písať dokumentáciu. Pre C/C++ kód sa najčastejšie používa nástroj Doxygen. Kód budete musieť okomentovat vo formáte, ktorý Doxygen akceptuje a následne je z neho schopný vygenerovat dokumentáciu v podobe webovej stránky.
 
 Rozcestník:
 
