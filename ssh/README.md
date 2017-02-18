@@ -4,9 +4,7 @@ Je stroj na ktorom su testované Vaše úlohy. Pre odovzdanie úlohu sa na tento
 
 # Kontr
 
-Je program, ktorý vykonáva kontrolu úloh.
-
-Pokračujte podľa operačného systému aby ste sa napojili na AISU a spustili Kontr nad Vašou úlohou:
+Je program, ktorý vykonáva kontrolu úloh. Pokračujte podľa operačného systému aby ste sa napojili na AISU a spustili Kontr nad Vašou úlohou:
 
 - [Windows](./windows.md)
 - [Linux a macOS](./linux.md)
