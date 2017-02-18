@@ -18,3 +18,7 @@ sudo apt-get install valgrind
 ```
 sudo dnf install valgrind
 ```
+
+# Kam ďalej
+
+Pokračujte návodom na [použitie Valgrindu](./valgrind-pouzitie.md).
