@@ -3,6 +3,3 @@
 # Úvod
 
 
-
-{% include "./SUMMARY.md" %}
-
