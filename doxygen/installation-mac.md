@@ -17,7 +17,9 @@ V dolnej časti vyhladajte distribúciu pre OS X, a stiahnite si ju.
 Otvorte stiahnutý súbor. Na inštalačný súbor Doxygen _kliknite pravým a vyberte možnosť Open_.  
 Pozor! Táto kombinácia **nie je **ekvivalentná obyčajnému otvoreniu súboru dvojklikom! Dokončite inštaláciu.
 
-
-
 ![](/assets/OSX_doxygen2.png)
+
+{% include "./installation-next.md" %} 
+
+
 
