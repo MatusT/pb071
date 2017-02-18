@@ -1,6 +1,6 @@
-# Valgrind na Mac OS X {#intro}
+# Valgrind na macOS {#intro}
 
-Ak máte najnovšiu verziu operačného systému OS X - Sierra, doporučujem vám skúsiť radšej [Dr.Memory](/memory-leaks/macos_drmemory.md).
+Ak máte najnovšiu verziu operačného systému macOS - Sierra, doporučujem vám skúsiť radšej [Dr.Memory](/memory-leaks/macos_drmemory.md).
 
 V opačom prípade máte tri možnosti:
 
@@ -81,11 +81,6 @@ make
 sudo make install 
 ```
 
-Prvé tri balíčky vám umožnia spustiť skript **autogen.sh**, ktorý nakonfiguruje prostredie a pripraví ho pre kompiláciu.   
+Prvé tri balíčky vám umožnia spustiť skript **autogen.sh**, ktorý nakonfiguruje prostredie a pripraví ho pre kompiláciu.  
 **svn://svn.valgrind.org/valgrind/trunk** obsahuje najnovšiu binárku pre valgrind.
-
-
-
-
-
 
