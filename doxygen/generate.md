@@ -1,0 +1,6 @@
+# Generovanie dokumentácie
+
+
+
+# Kam ďalej
+
