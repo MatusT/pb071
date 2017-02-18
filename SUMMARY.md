@@ -2,7 +2,7 @@
 
 ## Návody PB071
 
-* [Rozcestník](README.md)
+* [Úvod](README.md)
 
 ## Základné
 
