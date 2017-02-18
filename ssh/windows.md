@@ -1,8 +1,8 @@
 ## Pripojenie sa na AISU na Windows
 
 Máte na výber z 2 možností:
+* PuTTY
   * Ubuntu on Windows
-  * PuTTY
   
 ## Ubuntu on Windows
 
