@@ -38,7 +38,7 @@
   * [Inštalácia](doxygen/installation.md)
     * [Windows](doxygen/installation_windows.md)
     * [Linux](doxygen/installation_linux.md)
-    * [Mac OS X](doxygen/installation_mac.md)
+    * [macOS](doxygen/installation_mac.md)
   * [Písanie dokumentácie](doxygen/document.md)
   * [Generovanie dokumentácie](doxygen/generate.md)
 * [AISA](ssh/README.md)
