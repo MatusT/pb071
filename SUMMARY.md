@@ -41,10 +41,10 @@
     * [macOS](doxygen/installation-mac.md)
   * [Písanie dokumentácie](doxygen/document.md)
   * [Generovanie dokumentácie](doxygen/generate.md)
-* [AISA](ssh/README.md)
+* [AISA a Kontr](ssh/README.md)
   * [Windows](ssh/windows.md)
-  * [Linux & Mac OS X](ssh/linux.md)
-* [Homebrew for OS X](qt-creator/homebrew-osx.md)
+  * [Linux & macOS](ssh/linux.md)
+* [Homebrew for macOS](qt-creator/homebrew-osx.md)
 
 ## Pokročilé
 
