@@ -2,7 +2,7 @@
 
 * #### Ak máte nainštalovaný Homebrew:
 
-Otvorte terminál, a postupujte nasledovne
+Otvorte terminál, a postupujte nasledovne:
 
 ```termnal
 brew install cmake
@@ -16,15 +16,15 @@ nano .bash_profile
 
 
 Otvorí sa súbor .**bash\_profile** pripravený pre editovanie. Ak už tento súbor niečo obsahuje, nemažte to.  
-Do súboru vložte nasledovný riadok \(stačí bežným skopírovaním\).
+Do súboru vložte nasledovný riadok \(stačí bežným skopírovaním\):
 
 ```terminal
 export PATH="/usr/local/Cellar/cmake/3.7.2/bin:$PATH"
 ```
 
 
-Stlačte **ctrl + o**, následne **Enter**,  na potvrdenie uloženia zmien. Potom stlačte** ctrl+x**, čím opustíte súbor a jeho editovanie.
+Stlačte **ctrl+o**, následne **Enter**,  na potvrdenie uloženia zmien. Potom stlačte** ctrl+x**, čím opustíte súbor a jeho editovanie.
 
-Pred použitím cmake otvorte nové \(tento krok je podstatný!\). 
+Pred použitím cmake otvorte nový terminál \(tento krok je podstatný!\). 
 
 {% include "./installation-next.md" %} 
