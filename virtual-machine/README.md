@@ -1,6 +1,6 @@
 # Virtuálny stroj - Lubuntu 16.04 LTS
 
-Kôli prípadným problémom na vlastných strojoch, vám dávame k dispozícii virtuálny stroj s predinštalovaným linuxom.
+Kvôli prípadným problémom na vlastných strojoch, vám dávame k dispozícii virtuálny stroj s predinštalovaným linuxom.
 
 # Stiahnutie VirtualBox
 
@@ -8,7 +8,7 @@ Kôli prípadným problémom na vlastných strojoch, vám dávame k dispozícii 
 * Virtuálna verzia bola vyrobená na verzii _5.2.14_
 * Nainštalujte si verziu pre svoj daný operačný systém.
 * Pre viac informácii ako postupovať a ovládať virtual box:
-  *  [https://www.virtualbox.org/manual/ch01.html](https://www.virtualbox.org/manual/ch01.html)
+  * [https://www.virtualbox.org/manual/ch01.html](https://www.virtualbox.org/manual/ch01.html)
   * návody na internete.
 
 ## Stiahnutie stroja
@@ -24,16 +24,12 @@ Kôli prípadným problémom na vlastných strojoch, vám dávame k dispozícii 
 * Graficka pamať: 64MB 
 * Disk: Treba zadať cestu k stiahnutému VDI disku.
 
-
-
 ## Virtuálny stroj
 
 * Užívateľ: _user \(Autologin\)_
 * Heslo: _user_
 * Root heslo: _toor _\(root naopak\)
 * SSH port: 22
-
-
 
 ### Verzie nástrojov
 
@@ -44,13 +40,5 @@ Kôli prípadným problémom na vlastných strojoch, vám dávame k dispozícii 
 * QtCreator - 3.5.1
 * Valgrind - 0.6.7
 
-
-
 // TODO : Dopln obrazky - screeshoty spravene
-
-
-
-
-
-
 
