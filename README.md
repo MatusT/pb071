@@ -27,5 +27,67 @@ Inštalačný systém, vďaka ktorému môžete ľahšie nainštalovať niekoľk
 
 Pokiaľ nechcete používať Qt Creator, je k dispozícii návod na natívne vývojové prostredie pre macOS, vyvíjané Applom.
 
-{% include "./SUMMARY.md" %}
+# Rozcestník
+
+## Základné
+
+* [Git](git/README.md)
+  * [Inštalácia](git/installation.md)
+    * [Windows](git/installation-windows.md)
+    * [Linux](git/installation-linux.md)
+    * [Mac OS X](git/installation-macosx.md)
+  * [Začiatok semestra](git/beginning-of-semester.md)
+  * [Úloha hello](git/hello.md)
+* [CMake](cmake/README.md)
+  * [Inštalácia](cmake/installation.md)
+    * [Windows](cmake/installation-windows.md)
+    * [Linux](cmake/installation-linux.md)
+    * [macOS](cmake/installation-macos.md)
+  * [Použitie](cmake/use.md)
+* [Qt Creator](qt-creator/README.md)
+  * [Inštalácia](qt-creator/installation.md)
+    * [Windows](qt-creator/installation-windows.md)
+    * [Linux](qt-creator/installation-linux.md)
+    * [Mac OS X](qt-creator/installation-macosx.md)
+  * [Vytvorenie nového projektu](qt-creator/create.md)
+  * [Kompilácia](qt-creator/compilation.md)
+  * [Debugging](qt-creator/debug.md)
+* [Valgrind a Dr. Memory](memory-leaks/README.md)
+  * [Windows a Dr. Memory](memory-leaks/windows_drmemory.md)
+  * [Linux a Valgrind](memory-leaks/linux_valgrind.md)
+  * [macOS a Dr. Memory](memory-leaks/macos_drmemory.md)
+  * [macOS a Valgrind](memory-leaks/mac-osx-valgrind.md)
+  * [Valgrind - použitie](memory-leaks/valgrind-pouzitie.md)
+* [Doxygen](doxygen/README.md)
+  * [Inštalácia](doxygen/installation.md)
+    * [Windows](doxygen/installation-windows.md)
+    * [Linux](doxygen/installation-linux.md)
+    * [macOS](doxygen/installation-mac.md)
+  * [Písanie dokumentácie](doxygen/document.md)
+  * [Generovanie dokumentácie](doxygen/generate.md)
+* [AISA a Kontr](ssh/README.md)
+  * [Windows](ssh/windows.md)
+  * [Linux & macOS](ssh/linux.md)
+
+## Doplňujúce
+
+* [Homebrew for macOS](qt-creator/homebrew-osx.md)
+* [Visual Studio 2015](visual-studio-2015/README.md)
+  * [Inštalácia](visual-studio-2015/installation.md)
+  * [Vytvorenie nového projektu](visual-studio-2015/create.md)
+  * [Spustenie projektu](visual-studio-2015/run.md)
+  * [Debugging](visual-studio-2015/debugging.md)
+  * [Git](visual-studio-2015/git.md)
+  * [Dr. Memory](visual-studio-2015/dr.-memory.md)
+* [Xcode](xcode/README.md)
+  * [Inštalácia](xcode/installation.md)
+  * [Spustenie projektu](xcode/run.md)
+  * [Nastavenie kompilačných parametrov](xcode/compilation.md)
+  * [Pridanie súborov do projektu](xcode/create.md)
+  * [Vytvorenie projektu z cmake](xcode/vytvorenie-projektu-z-cmake.md)
+* [Ubuntu on Windows](ubuntu-on-windows/README.md)
+  * [Inštalácia](ubuntu-on-windows/installation.md)
+  * [Kompilačné nástroje](ubuntu-on-windows/kompilacne-nastroje.md)
+  * [AISA](ubuntu-on-windows/aisa.md)
+* [Virtuálny stroj](virtual-machine/README.md)
 
