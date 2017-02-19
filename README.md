@@ -10,8 +10,8 @@ Tieto tutoriály slúžia na to, aby ste si vedeli nastaviť a požívať vývoj
 
 Pre Windows je hneď niekoľko vecí navyše. V prvom rade sa jedná o simuláciu linuxového prostredia. Linux je vo väčšine učební, používa ho väčšina cvičiacich a Kontr, nástroj na kontrolu úloh, beží takisto na linuxe. Z tohoto dôvodu je užitočné mať k dispozícii linuxový sýstém, ale aby ste si ho nemuseli inštalovať na svoj počítač a nemuseli behať na fakultu, ponúkame dve alternatívy:
 
-1. [Virtuálny stroj](../virtual-machine/README.md) - pripravený spustiteľný linux so všetkými nástrojmi. Stačí keď ho spustíte a nemusíte nič inštalovať
-2. [Ubuntu on Windows](../ubuntu-on-windows/README.md) - ak máte Windows 10 v 64 bitovej verzii, môžete aktivovať túto funkcionalitu, ktorá Vám dodá konzolovú verziu Ubuntu. Potom môžete postupovať v tutoriáloch linuxovou vetvou. Nevýhoda je, že máte k dispozícii command line. Výhoda voči virtuálnemu stroju je omnoho vyššia rýchlosť a prístup k dátam Windowsu.
+1. [Virtuálny stroj](/virtual-machine/README.md) - pripravený spustiteľný linux so všetkými nástrojmi. Stačí keď ho spustíte a nemusíte nič inštalovať
+2. [Ubuntu on Windows](/ubuntu-on-windows/README.md) - ak máte Windows 10 v 64 bitovej verzii, môžete aktivovať túto funkcionalitu, ktorá Vám dodá konzolovú verziu Ubuntu. Potom môžete postupovať v tutoriáloch linuxovou vetvou. Nevýhoda je, že máte k dispozícii command line. Výhoda voči virtuálnemu stroju je omnoho vyššia rýchlosť a prístup k dátam Windowsu.
 
 ### [Visual Studio 2015](../visual-studio-2015/README.md)
 
