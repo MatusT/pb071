@@ -1,4 +1,4 @@
-# Inštalácia {#intro}
+# Inštalácia {#installation}
 
 1. V nastaveniach zvoľte **Update & Security**.
 
@@ -37,8 +37,14 @@ sudo apt update && sudo apt upgrade
 
 # Prístup k súborom {#filesystem}
 
+Ubuntu on Windows má svoj vyhradený priestor oddelený od Windowsu. Pokiaľ chcete pristúpiť k dátam Windowsu, musíte sa presunúť v príkazovom riadku do adresára **/mnt/c/** pomocou príkazu:
+```
+cd /mnt/c/
+```
+V priečinku **/mnt/c/** sa nachádza partícia **C:/**. Pre vrátenie sa do domovského adresára Ubuntu použite:
+```
+cd ~
+```
 
+![](/images/ubuntu-on-bash/install_08.png)
 
-# Kam ďalej {#next}
-
-Najdôležitejšia funkcionalita je pre Vás použitie programu Valgrind, ktorý inak na Windowse nespustíte. Pokračujte [návodom na jeho inštaláciu](../valgrind/installation_windows.md).

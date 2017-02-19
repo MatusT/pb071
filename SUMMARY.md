@@ -59,6 +59,8 @@
   * [Pridanie súborov do projektu](xcode/create.md)
   * [Vytvorenie projektu z cmake](xcode/vytvorenie-projektu-z-cmake.md)
 * [Ubuntu on Windows](ubuntu-on-windows/README.md)
+  * [Inštalácia](ubuntu-on-windows/installation.md)
+  * Kompilačné nástroje
   * [AISA](ubuntu-on-windows/aisa.md)
 * [Virtuálny stroj](virtual-machine/README.md)
 
