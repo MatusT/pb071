@@ -23,7 +23,7 @@
   * [Inštalácia](qt-creator/installation.md)
     * [Windows](qt-creator/installation-windows.md)
     * [Linux](qt-creator/installation-linux.md)
-    * [Mac OS X](qt-creator/installation-macosx.md)
+    * [macOS](qt-creator/installation-macosx.md)
   * [Vytvorenie nového projektu](qt-creator/create.md)
   * [Kompilácia](qt-creator/compilation.md)
   * [Debugging](qt-creator/debug.md)
