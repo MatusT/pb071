@@ -2,7 +2,7 @@
 
 # Úvod
 
-Tieto tutoriály slúžia na to, aby ste si vedeli nastaviť a požívať vývojárske nástroje, potrebné pre predmet PB071, na vlastnom počítači. Minimálne by ste mali prejsť všetkými tutoriálmi v kategórii *základných* a to v poradí, akom su usporiadané. V kategórii \*doplňujúcich\* nájdete nepovinné tutoriály, ktoré sa Vám však môžu takisto hodiť.
+Tieto tutoriály slúžia na to, aby ste si vedeli nastaviť a požívať vývojárske nástroje, potrebné pre predmet PB071, na vlastnom počítači. Minimálne by ste mali prejsť všetkými tutoriálmi v kategórii *základných* a to v poradí, akom su usporiadané. V kategórii *doplňujúcich* nájdete nepovinné tutoriály, ktoré sa Vám však môžu takisto hodiť.
 
 ## Špecifické pre Windows
 
