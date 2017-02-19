@@ -27,4 +27,5 @@ Inštalačný systém, vďaka ktorému môžete ľahšie nainštalovať niekoľk
 
 Pokiaľ nechcete používať Qt Creator, je k dispozícii návod na natívne vývojové prostredie pre macOS, vyvíjané Applom.
 
+{% include "./SUMMARY.md" %}
 
