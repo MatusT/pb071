@@ -68,11 +68,9 @@ Na karte **System** prideľte rozumné množstvo jadier.
 
 ![](images/virtual_machine/SystemProc.png)
 
-Na karte **Display** nastavte optimálne veľa **Video memory**, napríklad 64 MB.
+Na karte **Display** nastavte optimálne veľa **Video memory**, napríklad 64 MB.![](images/virtual_machine/DisplayMemory.png)
 
+![](images/virtual_machine/DisplayMemory.png)
 
-
-
-
-
+A je to, stroj by mal byť nastavený a pripravený na spustenie.
 
