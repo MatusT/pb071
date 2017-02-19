@@ -7,7 +7,6 @@
 ## Základné
 
 * [Git](git/README.md)
-  * [Úvod](git/introduction.md)
   * [Inštalácia](git/installation.md)
     * [Windows](git/installation-windows.md)
     * [Linux](git/installation-linux.md)
