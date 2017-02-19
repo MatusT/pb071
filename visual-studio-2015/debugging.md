@@ -7,7 +7,7 @@ Spustením programu cez možnosť **Local Windows Debugger** sa program spustí 
 V dolnej časti sa objavia dva panely. V prvom sa dá prepináť medzi:
 - **Autos** - premenné, ktorých hodnotu automaticky VS zachytilo a môže sa Vám hodiť
 - **Locals** - premenné, ktoré su len v lokálnom rozmedzí - napríklad ak breakpoint je vo funkcii, uvidíte v tomto okne len premenné, ktoré su na stacku v tejto funkcii
-- **Watch** - v tomto okne môžete napísať názvy premenných, ktorých hodnotu chcete vidieť počas celej doby debuggovania
+- **Watch** - v tomto okne môžete napísať názvy premenných, ktorých hodnotu chcete vedieť počas celej doby debuggovania
 
 V druhom okne sa nachádza:
 - **Call Stack** - zoznam volaní, ktoré boli vykonané aby sa program dostal do zastaveného bodu
