@@ -1,9 +1,8 @@
-# Rozcestník
+# Summary
 
 ## Návody PB071
 
 * [Úvod](README.md)
-* [Rozcestník](SUMMARY.md)
 
 ## Základné
 
