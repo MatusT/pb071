@@ -39,7 +39,11 @@ V tomto predmete budete mať typicky niekoľko projektov na jednu úlohu:
      ![](/visual-studio-2015/images/project_options_2.png)  
      ![](/visual-studio-2015/images/project_options_3.png)
 
-5. Vytvorte nové súbory
+5. V nastaveniach **C/C++ -> Preproccessor** pridajte **_CRT_SECURE_NO_WARNINGS**
+
+   ![](/images/visual-studio-2015/prep.png)
+
+# Vytvorte nové súbory
 
    * Kliknite na _Header_/_Source_ _Files_ podľa toho či chcete pridať hlavičkový alebo zdrojový súbor → Add → New Item…
    * Používajte striktne prípony **.h** a **.c**
