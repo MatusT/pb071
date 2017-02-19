@@ -10,7 +10,7 @@
 
    ![](/images/cmake/install_windows_02.png)
    
-4. Pridajte CMake do premennej PATH - to Vám umožní spúšťať CMake z konzoli a tiež
+4. Pridajte CMake do premennej PATH - to Vám umožní spúšťať CMake z konzole a tiež
    spôsobí, že iné nástroje automaticky nájdu CMake
    
    ![](/images/cmake/install_windows_03.png)
