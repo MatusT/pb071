@@ -52,8 +52,8 @@
   * [Vytvorenie nového projektu](visual-studio-2015/create.md)
   * [Spustenie projektu](visual-studio-2015/run.md)
   * [Debugging](visual-studio-2015/debugging.md)
-  * Git \(Team Explorer\)
-  * Dr. Memory
+  * [Git](visual-studio-2015/git.md)
+  * [Dr. Memory](visual-studio-2015/dr.-memory.md)
 * [Xcode](xcode/README.md)
   * [Inštalácia](xcode/installation.md)
   * [Spustenie projektu](xcode/run.md)
