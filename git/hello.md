@@ -39,7 +39,7 @@ aisa:/home/{xlogin}/pb071>$ git commit -m "Úloha Hello"
 aisa:/home/{xlogin}/pb071>$ git push -u origin master
 ```
 
-Po posledom kroku sú zmeny viditeľné v gitlabe, a preto je možné odovzdať úlohu (cez kontr, viď [odovzdávanie](../ssh/linux.html))
+Po posledom kroku sú zmeny viditeľné v gitlabe, a preto je možné odovzdať úlohu (cez kontr, viď [odovzdávanie](../ssh/linux.html)).
 
 ### Ak pokračujete stále na tom istom PC (resp, na fakultných PC, stále s rovnakým OS), stačí držať sa týchto krokov:
 * programovať, testovať,
@@ -47,7 +47,7 @@ Po posledom kroku sú zmeny viditeľné v gitlabe, a preto je možné odovzdať 
 
 
 ### Ak pracujete na rôznych PC:
-* pred začatím, stiahnuť si zmeny z GitLab-u, pomocou `git pull`
+* pred začatím, stiahnuť si zmeny z GitLab-u, pomocou `git pull`,
 * programovať, testovať,
 * po dokončení nejakej časti, `git add`, `git commit` s rozumnou správou, nakoniec `git push`.
 
