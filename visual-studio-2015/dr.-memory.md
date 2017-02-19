@@ -9,3 +9,7 @@ Dr. Memory je možné spúštať priamo cez Visual Studio na Vašom projekte. V 
 ![](/images/visual-studio-2015/drmemory.png)
 
 Po dokončení, kliknutím na **Apply** a **Ok**, môžete kedykoľvek zavolať Dr. Memory zvolením **Tools → Dr. Memory**. Výstup bude v okne "Output".
+
+![](/images/visual-studio-2015/output_drmemory.png)
+
+
