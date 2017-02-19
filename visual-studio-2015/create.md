@@ -5,10 +5,11 @@ Visual Studio rozlišuje dva [koncepty](https://msdn.microsoft.com/en-us/library
 * **Project** - logický celok obsahujúci cesty k súborom, ktoré chcete skompilovať, a informáciu ako ich má Visual Studio skompilovať. Súčasť **solution**.
 * **Solution** - kolekcia **projektov** s dodatočnými informáciami netýkajucími sa samotnej kompilácie ako nastavenia okien editora, nezdrojové súbory\(obrázky etc.\) a podobne.
 
-V tomto predmete si vystačíte s najviac **2 projektami** v jednom solution na úlohu:
+V tomto predmete budete mať typicky niekoľko projektov na jednu úlohu:
 
-* Typicky bude prvý obsahovať zdrojové súbory úlohy a **main.c** - to bude spúšťateľná aplikácia a najčastejšie aj samotné riešenie úlohy, ktoré máte odovzdať\(občas budete mať ako zadanie napísať/opraviť testy namiesto písania aplikácie\).
-* Druhý bude zdieľať s prvým zdrojové súbory, ale namiesto main.c bude mať súbory obsahujúce **testovací framework a testy** k úlohe.
+* Niekoľko projektov bude obsahovať zdrojové súbory úlohy - to budú spúšťateľné aplikácie a najčastejšie aj samotné riešenia úlohy, ktoré máte odovzdať.
+* Jeden bude bude mať súbory obsahujúce **testovací framework a testy** k úlohe.
+
 
 1. V menu vyberte **File → New → Project**
 
