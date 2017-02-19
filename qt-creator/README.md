@@ -8,9 +8,9 @@ Rozcestník:
   * [Windows](../qt-creator/installation-windows.md)
   * [Linux](../qt-creator/installation-linux.md)
   * [macOS](../qt-creator/installation-macosx.md)
+* [Vytvorenie nového projektu](../qt-creator/create.md)
 * [Kompilácia projektu](../qt-creator/compilation.md)
 * [Debugging projektu](../qt-creator/debug.md)
-* [Vytvorenie nového projektu](../qt-creator/create.md)
 
 
 
