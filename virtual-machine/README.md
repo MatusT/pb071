@@ -1,6 +1,6 @@
 # Virtuálny stroj - Lubuntu 16.04 LTS
 
-Kvôli prípadným problémom na vlastných strojoch, vám dávame k dispozícii virtuálny stroj s predinštalovaným linuxom.
+Kvôli prípadným problémom na vlastných strojoch, vám dávame k dispozícii virtuálny stroj s prednastaveným Linuxom.
 
 # Stiahnutie VirtualBox
 
@@ -11,17 +11,17 @@ Kvôli prípadným problémom na vlastných strojoch, vám dávame k dispozícii
   * [https://www.virtualbox.org/manual/ch01.html](https://www.virtualbox.org/manual/ch01.html)
   * návody na internete.
 
-## Stiahnutie stroja
+## Stiahnutie stroja![](images/virtual_machine/virtual_box_main_window.png)
 
-* Aktualne na MEGA: 
+* Aktuálne na MEGA: 
   * [https://mega.nz/\#!CJgHRI6C!lIufmxgIsprevB9jZMA195Iz6EOBM2DP1xkvZOaOaSQ](https://mega.nz/#!CJgHRI6C!lIufmxgIsprevB9jZMA195Iz6EOBM2DP1xkvZOaOaSQ)
-  * ide o Zip archyv - treba rozbalit - zaujíma Vás súbor **VDI **
+  * ide o zip archív, ktorý je potrebné rozbaliť. Vo vnútri sa nachádza súbor **VDI.**
 
 ## Nastavenie virtuálneho stroja - referenčné
 
-* Processor: 2 jadra \(starsie stroje kludne jeden - budu pomalšie\)
+* Processor: 2 jadra \(starsie stroje kľudne jedno - budú ale pomalšie\)
 * RAM: 2 GB
-* Graficka pamať: 64MB 
+* Grafická pamäť: 64MB 
 * Disk: Treba zadať cestu k stiahnutému VDI disku.
 
 ## Virtuálny stroj
@@ -40,5 +40,39 @@ Kvôli prípadným problémom na vlastných strojoch, vám dávame k dispozícii
 * QtCreator - 3.5.1
 * Valgrind - 0.6.7
 
-// TODO : Dopln obrazky - screeshoty spravene
+## Obrázky
+
+Takto nejak bez strojov by mal vyzerať váš virtual box
+
+![](images/virtual_machine/virtual_box_main_window.png)
+
+Kliknete na na **New.**
+
+![](images/virtual_machine/NameOfTheMachine.png)
+
+Pomenujte si nejak váš stroj.![](images/virtual_machine/MemorySize.png)
+
+![](images/virtual_machine/MemorySize.png)
+
+Pridelte mu pamäť - 2 GB je optimum.
+
+![](images/virtual_machine/SelectVirtualDrive.png)
+
+Vyberte poslednú možnosť, kliknite na zložku a nájdite extrahovaný virtuálny disk. A kliknite na **Create**.
+
+Následne otvorte **Settings **pre aktuálne vytvorený disk.
+
+![](images/virtual_machine/LubuntuSettings.png)
+
+Na karte **System** prideľte rozumné množstvo jadier.
+
+![](images/virtual_machine/SystemProc.png)
+
+Na karte **Display** nastavte optimálne veľa **Video memory**, napríklad 64 MB.
+
+
+
+
+
+
 
