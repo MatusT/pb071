@@ -1,10 +1,10 @@
 # Vytvorenie nového projektu {#intro}
 
-1. Vyberte v menu **File → new File or Project** alebo **+ New Project** v úvodnej obrazovke
+1. Vyberte v menu **File → new File or Project** alebo **+ New Project** v úvodnej obrazovke:
 
   ![](/images/qt-creator/create_01.png)
 
-2. Zvoľte typ projektu **Non-Qt Project → Plain C Application**
+2. Zvoľte typ projektu **Non-Qt Project → Plain C Application**:
 
   ![](/images/qt-creator/create_02.png)
 
@@ -12,15 +12,15 @@
 
   ![](/images/qt-creator/create_03.png)
 
-4. Build system nastavte na **CMake**
+4. Build system nastavte na **CMake**:
 
   ![](/images/qt-creator/create_04_cmake.png)
 
-5. Ak ste postupovali správne podľa návodu, budete mat práve jeden kit s gcc/MinGW
+5. Ak ste postupovali správne podľa návodu, budete mat práve jeden kit s gcc/MinGW.
 
   ![](/images/qt-creator/create_05.png)
   
-6. Voľbu *Add to version control* vynechajte, zbytočne iba vytvorí .gitignore pre daný projekt - to je však zbytočné ak už jeden máte v repozitári.
+6. Voľbu *Add to version control* vynechajte, zbytočne iba vytvorí _.gitignore_ pre daný projekt - to je však zbytočné, ak už jeden máte v repozitári.
 
   ![](/images/qt-creator/create_06.png)
 
@@ -29,24 +29,24 @@
    set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -std=c99 -Wall -Wextra -Werror")
    ```
    Jednotlivé nastavenia znamenajú nasledovné:
-   - **std=c99** - nastaví štandard jazyka, podľa ktorého má kompilátor kontrolovať na C99(vyučovaná verzia v PB071)
-   - **pedantic** - nastaví striktné dodržiavanie štandardu, kompilátorom neprejdu žiadne rozšírenia štandardu, zahlási všetky chyby vyžadované štandardom
-   - **Wall** - skratka pre *Warnings All*, pri tomto nastavení bude kompilátor upozorňovať aj na možné chyby, ktoré nie sú vynucované štandardom
-   - **Werror** - skratka pre *Warning as error*, každé upozornenie bude brané ako chyba
+   - **std=c99** - nastaví štandard jazyka, podľa ktorého má kompilátor kontrolovať podľa štandardu C99(vyučovaná verzia C v PB071),
+   - **pedantic** - nastaví striktné dodržiavanie štandardu - kompilátorom neprejdú žiadne rozšírenia štandardu, zahlási všetky chyby vyžadované štandardom,
+   - **Wall** - skratka pre *Warnings All*, pri tomto nastavení bude kompilátor upozorňovať aj na možné chyby, ktoré nie sú vynucované štandardom,
+   - **Werror** - skratka pre *Warning as error*, každé upozornenie bude brané ako chyba.
      
      ![](/images/qt-creator/create_07.png)
   
 ## Pridávanie nových súborov {#add-file}
 
-1. Pre pridanie nového súboru do projektu zvoľte v menu **File → New File or Project**
+1. Pre pridanie nového súboru do projektu zvoľte v menu **File → New File or Project**:
 
   ![](/images/qt-creator/new_file.png)
   
-2. Z templatov vyberte **C++ → C++ Source/Header** - source pre zdrojový .c súbor a header pre hlavičkový .h súbor.
+2. Z templatov vyberte **C++ → C++ Source/Header** - source pre zdrojový .c súbor a header pre hlavičkový .h súbor:
 
   ![](/images/qt-creator/newfile_02.png)
 
-3. Pomenujte svoj súboor a umisetnite ho tam, kde sa nachádza Váš projekt(kde máte CMakeLists.txt)
+3. Pomenujte svoj súbor a umiestnite ho tam, kde sa nachádza Váš projekt(kde máte CMakeLists.txt):
 
   ![](/images/qt-creator/newfile_03.png)
 
