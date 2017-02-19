@@ -1,6 +1,6 @@
 # Inštalácia Qt na Linux {#intro}
 
-Inštalácia na linuxe je závislá na konkrétnej distribúcii a kedže distribúcií je nespočetne mnoho, konkrétne postupy tu budú uvedené len pre najnovšie verzie najpopulárnejších linuxových distribúcií. Pokiaľ máte názvy balíkov pre svoju distribúciu a chcete ju zdieľať s ostatnými študentami, pridajte ju do komentárov a bude pridaná do tohoto návodu.
+Inštalácia na Linuxe je závislá na konkrétnej distribúcii a kedže distribúcií je nespočetne mnoho, konkrétne postupy tu budú uvedené len pre najnovšie verzie najpopulárnejších linuxových distribúcií. Pokiaľ máte názvy balíkov pre svoju distribúciu a chcete ju zdieľať s ostatnými kolegiňami/kolegami, pridajte ju do komentárov a bude pridaná do tohoto návodu.
 
 # Ukážkové distribúcie {#distributions}
 
@@ -22,7 +22,7 @@ sudo dnf install make gcc g++ gdb qt5*-devel qt-creator
 
 V prípade, že nepoužívate žiadnu z vyššie uvedených distribúcií, je priložený aj všeobecný návod pre každú distribúciu.
 
-Základne balíky **make, gcc, gdb** na kompiláciu musíte nainštalovať z balíčkovacieho správcu Vašej distribúcie - väčšinou sa tieto balíku volajú presne podľa názvov programov.
+Základne balíky **make, gcc, gdb** na kompiláciu musíte nainštalovať z balíčkovacieho správcu Vašej distribúcie - väčšinou sa tieto balíky volajú presne podľa názvov programov.
 
 **Qt Creator** je možné nainštalovať pomocou inštalátora:
 
@@ -31,42 +31,21 @@ Základne balíky **make, gcc, gdb** na kompiláciu musíte nainštalovať z bal
   # pre 32 bitovú verziu nahradťe x64 za x86
   wget http://download.qt.io/official_releases/online_installers/qt-unified-linux-x64-online.run
   ```
-2. Nastavte inštalátoru práva na spúštanie
+2. Nastavte inštalátoru práva na spúštanie:
   ```
   ./chmod +x qt-*
   ```
-3. Spustite
+3. Spustite:
   ```
   ./qt*
   ```
-4. Na začiatku Vám inštalátor ponúkne registráciu, ktorá nie je povinná a je možné ju
-preskočiť. V prípade, že sa rozhodnete túto možnosť využiť, účet Vám poslúži na prihlasovanie sa do [Qt Wiki](https://wiki.qt.io/Main) a [Qt Fóra](https://forum.qt.io/).
+4. Na začiatku Vám inštalátor ponúkne registráciu, ktorá nie je povinná a je možné ju preskočiť. V prípade, že sa rozhodnete túto možnosť využiť, účet Vám poslúži na prihlasovanie sa do [Qt Wiki](https://wiki.qt.io/Main) a [Qt Fóra](https://forum.qt.io/).
   
   ![](/images/qt-creator/linux_install_01.png)
   
-5. Z komponent potrebujete Qt 5.7 → **Desktop gcc 64-bit/32-bit**
+5. Z komponentov potrebujete Qt 5.8 → **Desktop gcc 64-bit/32-bit**
   
   ![](/images/qt-creator/linux_install_03.png)
 
 
 {% include "./installation-next.md" %}
-
-
-## Pridanie Cmake do Qt
-
-
-Otvorte aplikáciu Qt Creator. V hornom menu vyberte záložku **Tools &gt Options...&gt Build & Run &gt Cmake**
-
-![](/assets/Qt_add_cmake.png)
-
-Vyberte možnosť **Add**. Ako meno zvoľte ľubovolné označenie (pokojne nechajte to, čo bolo defaultne zvolené), a ako **Path** zvoľte cestu k cmake.
-
-Ak Cmake nemáte nainštalované, nainštalujte si ho napríklad podľa [návodu](/git/cmake.md).
-
-Ak Cmake máte, Path zistíte nasledovne:
-
-Pre Linux a OS X otvorte terminál a napíšte 
-
-```
-which cmake
-```
