@@ -2,7 +2,7 @@
 
 ## Ukážkové distribúcie {#distributions}
 
-V tejto časti sú uvedené príkazy inštalujúce všetky potrebné nástroje pre jednotlivé distribúcie.
+V tejto časti sú uvedené príkazy inštalujúce CMake pre jednotlivé distribúcie.
 
 ### Ubuntu 16.10
 
