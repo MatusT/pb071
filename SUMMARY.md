@@ -45,10 +45,10 @@
 * [AISA a Kontr](ssh/README.md)
   * [Windows](ssh/windows.md)
   * [Linux & macOS](ssh/linux.md)
+
+## Doplňujúce
+
 * [Homebrew for macOS](qt-creator/homebrew-osx.md)
-
-## Pokročilé
-
 * [Visual Studio 2015](visual-studio-2015/README.md)
   * [Inštalácia](visual-studio-2015/installation.md)
   * [Kompilácia projektu](visual-studio-2015/compilation.md)
