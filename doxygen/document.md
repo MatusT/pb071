@@ -4,7 +4,7 @@ Doxygen podporuje niekoľko formátov, v ktorých je možné dokumentáciu písa
 
 ## Súbor
 
-V každom súbore začnite jeho opisom, názvom a autorom.
+V každom súbore začnite jeho opisom, názvom a autorom:
 
 ```
 /**
@@ -16,7 +16,7 @@ V každom súbore začnite jeho opisom, názvom a autorom.
 
 ## Funkcia
 
-Pre zdokumentovanie funkcie sa používa
+Pre zdokumentovanie funkcie sa používa:
 - **@brief** pre opis funkcie
 - **@param** pre zadefinovanie parametra
 - **@return** pre opis toho, čo funkcia vracia
@@ -32,7 +32,7 @@ Pre zdokumentovanie funkcie sa používa
 
 ## Structure, Enum
 
-Pre zdokumentovanie jednotlivých prkov vo výčtovom type(**Enum**) alebo štruktúre, sa používa syntax:
+Pre zdokumentovanie jednotlivých prvkov vo výčtovom type(**Enum**) alebo štruktúre, sa používa syntax:
 ** /\*\*< opis prvku \*/ **
 
 ```
