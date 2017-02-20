@@ -8,7 +8,7 @@ ssh {xlogin}@aisa.fi.muni.cz
 
 Ako heslo použite svoje fakultné heslo. 
 
-Prihlásenie si môžete overiť tak, že váš prompt terminálu vyzerá nasledovne:
+Prihlásenie si môžete overiť tak, že Váš prompt terminálu vyzerá nasledovne:
 
 ```terminal
 aisa:/home/{xlogin}>$
