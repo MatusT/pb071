@@ -14,7 +14,7 @@ Kvôli prípadným problémom na vlastných strojoch, Vám dávame k dispozícii
 ## Stiahnutie stroja
 
 * Aktuálne na MEGA: 
-  * [https://mega.nz/\#!CJgHRI6C!lIufmxgIsprevB9jZMA195Iz6EOBM2DP1xkvZOaOaSQ](https://mega.nz/#!CJgHRI6C!lIufmxgIsprevB9jZMA195Iz6EOBM2DP1xkvZOaOaSQ)
+  * [http://fi.muni.cz/pb071/download](https://www.fi.muni.cz/pb071/download/ubuntu_machine.zip)
   * ide o zip archív, ktorý je potrebné rozbaliť. Vo vnútri sa nachádza súbor **VDI.**
 
 ## Nastavenie virtuálneho stroja - referenčné
