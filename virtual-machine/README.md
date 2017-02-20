@@ -1,6 +1,6 @@
 # Virtuálny stroj - Lubuntu 16.04 LTS
 
-Kvôli prípadným problémom na vlastných strojoch, vám dávame k dispozícii virtuálny stroj s prednastaveným Linuxom.
+Kvôli prípadným problémom na vlastných strojoch, Vám dávame k dispozícii virtuálny stroj s prednastaveným Linuxom.
 
 # Stiahnutie VirtualBox
 
@@ -19,7 +19,7 @@ Kvôli prípadným problémom na vlastných strojoch, vám dávame k dispozícii
 
 ## Nastavenie virtuálneho stroja - referenčné
 
-* Processor: 2 jadra \(starsie stroje kľudne jedno - budú ale pomalšie\)
+* Processor: 2 jadrá \(staršie stroje kľudne jedno - budú ale pomalšie\)
 * RAM: 2 GB
 * Grafická pamäť: 64MB 
 * Disk: Treba zadať cestu k stiahnutému VDI disku.
@@ -48,7 +48,7 @@ Kliknete na na **New.**
 
 ![](/images/virtual_machine/NameOfTheMachine.png)
 
-Pomenujte si nejak váš stroj.![](images/virtual_machine/MemorySize.png)
+Pomenujte si nejak váš stroj.
 
 ![](/images/virtual_machine/MemorySize.png)
 
@@ -58,7 +58,7 @@ Pridelte mu pamäť - 2 GB je optimum.
 
 Vyberte poslednú možnosť, kliknite na zložku a nájdite extrahovaný virtuálny disk. A kliknite na **Create**.
 
-Následne otvorte **Settings **pre aktuálne vytvorený disk.
+Následne otvorte **Settings** pre aktuálne vytvorený disk.
 
 ![](/images/virtual_machine/SystemProc.png)
 
