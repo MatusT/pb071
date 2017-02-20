@@ -1,13 +1,13 @@
 # Generovanie dokumentácie
 
-1. Spustite command line(PowerShell, Bash...)
-2. Zanavigujte do folderu so zdrojovým kódom
-3. Zavolajte príkaz na vygenerovanie Doxygen konfiguračného súboru
+1. Spustite command line(PowerShell, Bash, ...).
+2. Zanavigujte sa do folderu so zdrojovým kódom.
+3. Zavolajte príkaz na vygenerovanie Doxygen konfiguračného súboru:
 
    ```
    doxygen -g
    ```
-4. Zavolajte príkaz na vygenerovanie dokumentácie
+4. Zavolajte príkaz na vygenerovanie dokumentácie:
    ```
    doxygen
    ```
