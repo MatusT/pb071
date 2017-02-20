@@ -1,6 +1,6 @@
 # Valgrind na macOS {#intro}
 
-Ak máte najnovšiu verziu operačného systému macOS - Sierra, doporučujem vám skúsiť radšej [Dr.Memory](/memory-leaks/macos_drmemory.md).
+Ak máte najnovšiu verziu operačného systému macOS - Sierra, doporučujeme Vám skúsiť radšej [Dr.Memory](/memory-leaks/macos_drmemory.md).
 
 V opačom prípade máte tri možnosti:
 
@@ -10,7 +10,7 @@ V opačom prípade máte tri možnosti:
 brew install valgrind
 ```
 
-Pozor! Ak máte nainštalovanú najnovšiu nerziu OS X Sierra, je možné, že brew zlyhá s hláškou
+>Pozor! Ak máte nainštalovanú najnovšiu nerziu OS X Sierra, je možné, že brew zlyhá s hláškou
 
 ```terminal
 versions newer than El Capitan due to an upstream incompatibility.
@@ -19,9 +19,9 @@ Error: An unsatisfied requirement failed this build.
 
 V tomto prípade použite druhú možnosť inštalácie.
 
-* #### Ak Homebrew nemáte, stiahnite si inštalačnú binárku pre [Vallgrind](http://valgrind.org/downloads/).
+* #### Ak Homebrew nemáte, stiahnite si inštalačnú binárku pre [Valgrind](http://valgrind.org/downloads/).
 
-Pozor! limited support for 10.11 and 10.12
+>Pozor! limited support for 10.11 and 10.12
 
 Otvorte stiahnutý súbor a dekomprimujte ho.
 
@@ -37,8 +37,7 @@ V otvorenom okne zistíte, kde máte súbor uložený.
 
 Otvorte terminál.
 
-V príklade je cesta k priečinku : **/Users/Kejsty/Downloads/valgrind/**  
-a názov priečinku **valgrind-3.12.0**
+V príklade je cesta k priečinku : **/Users/Kejsty/Downloads/valgrind/** a názov priečinku **valgrind-3.12.0**
 
 Napíšte:
 
@@ -48,9 +47,9 @@ cd /Users/Kejsty/Downloads/valgrind/valgrind-3.12.0
 make
 ```
 
-A dúfajte, všetko prebehne v poriadku. Ak nie, skúste tretiu možnosť
+A dúfajte, že všetko prebehne v poriadku. Ak nie, skúste tretiu možnosť:
 
-* #### Otvorte terminál a presunte na \(pomocou cd {directory}\) na miesto, kam chcete valgrind stiahnuť.
+* #### Otvorte terminál a presuňte sa \(pomocou cd {directory}\) na miesto, kam chcete Valgrind stiahnuť.
 
 Postupne aplikujte nasledovné príkazy v termináli:
 
@@ -82,5 +81,5 @@ sudo make install
 ```
 
 Prvé tri balíčky vám umožnia spustiť skript **autogen.sh**, ktorý nakonfiguruje prostredie a pripraví ho pre kompiláciu.  
-**svn://svn.valgrind.org/valgrind/trunk** obsahuje najnovšiu binárku pre valgrind.
+**svn://svn.valgrind.org/valgrind/trunk** obsahuje najnovšiu binárku pre Valgrind.
 
