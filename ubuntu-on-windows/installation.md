@@ -20,7 +20,7 @@
 
   ![](/images/ubuntu-on-bash/install_05.png)
   
-6. Nápište **y** a stlačte enter pre potvrdenie inštalácie. V ďalšom kroku vytvorte účet administrátora linuxového systému - tento účet sa nemusí zhodovať s Vaším Windows účtom.
+6. Napíšte **y** a stlačte Enter pre potvrdenie inštalácie. V ďalšom kroku vytvorte účet administrátora linuxového systému - tento účet sa nemusí zhodovať s Vaším Windows účtom.
 
   ![](/images/ubuntu-on-bash/install_06.png)
 
