@@ -25,7 +25,7 @@ Na [http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html](http://www.ch
 
    ![](/assets/PuTTY2.png)
 
-3. Po prihlásení máte možnosť spustiť skript na odovzdanie domáceho úkolu. Napíšte:
+3. Po prihlásení máte možnosť spustiť skript na odovzdanie domácej úlohy:
 
    ```terminal
     /home/kontr/odevzdavam pb071 {hw0x} {nanecisto/naostro}
