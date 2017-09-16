@@ -24,17 +24,25 @@
 
   ![](/images/qt-creator/create_06.png)
 
-7. Do konfiguračného súboru projektu(CMakeLists.txt) pridajte nastavenia pre kompilátor používané v tomto predmete:
+7. Do konfiguračného súboru projektu(CMakeLists.txt) pridajte nastavenia pre kompilátory:
+   * Pre C99 (PB071)
    ```
-  if (CMAKE_CXX_COMPILER_ID MATCHES Clang OR ${CMAKE_CXX_COMPILER_ID} STREQUAL GNU)
-    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++14 -Wall -Wextra -Werror -pedantic")
-  elseif (${CMAKE_CXX_COMPILER_ID} STREQUAL MSVC)
-    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} /std=c++14 /permissive- /W4 /WX")
-  endif()
+    if (CMAKE_CXX_COMPILER_ID MATCHES Clang OR ${CMAKE_CXX_COMPILER_ID} STREQUAL GNU)
+    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c99 -Wall -Wextra -Werror -pedantic")
+    endif(CMAKE_CXX_COMPILER_ID MATCHES Clang OR ${CMAKE_CXX_COMPILER_ID} STREQUAL GNU)
    ```
+   * Pre C++14 (PB161)
+   ```
+    if (CMAKE_CXX_COMPILER_ID MATCHES Clang OR ${CMAKE_CXX_COMPILER_ID} STREQUAL GNU)
+      set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++14 -Wall -Wextra -Werror -pedantic")
+    elseif (${CMAKE_CXX_COMPILER_ID} STREQUAL MSVC)
+      set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} /std=c++14 /permissive- /W4 /WX")
+    endif()
+   ```
+
    Jednotlivé nastavenia znamenajú nasledovné:
-   - **std=c99** - nastaví štandard jazyka, podľa ktorého má kompilátor kontrolovať podľa štandardu C99(vyučovaná verzia C v PB071),
-   - **pedantic** - nastaví striktné dodržiavanie štandardu - kompilátorom neprejdú žiadne rozšírenia štandardu, zahlási všetky chyby vyžadované štandardom,
+   - **std=c99/c++14** - nastaví štandard jazyka, podľa ktorého má kompilátor kontrolovať
+   - **pedantic/permissive-** - nastaví striktné dodržiavanie štandardu - kompilátorom neprejdú žiadne rozšírenia štandardu, zahlási všetky chyby vyžadované štandardom,
    - **Wall** - skratka pre *Warnings All*, pri tomto nastavení bude kompilátor upozorňovať aj na možné chyby, ktoré nie sú vynucované štandardom,
    - **Werror** - skratka pre *Warning as error*, každé upozornenie bude brané ako chyba.
      
