@@ -10,8 +10,9 @@ preskočiť. V prípade, že sa rozhodnete túto možnosť využiť, účet Vám
 
 2. Z komponentov na výber potrebujete:
   - Qt → Qt 5.9.1 → **MinGW 5.3.0 32 bit**
-  - Qt → Qt 5.9.1 → **msv**
+  - Qt → Qt 5.9.1 → **msvc2017 64-bit**
   - Tools → **MinGW 5.3.0**
+  - Tools → **Qt Creator 4.4.0 CDB Debugger support**
      
     ![](/assets/2017-09-14.png)
 
