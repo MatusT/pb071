@@ -16,7 +16,7 @@
 
   ![](/images/qt-creator/create_04_cmake.png)
 
-5. Ak ste postupovali správne podľa návodu, budete mat práve jeden kit s gcc/MinGW.
+5. Ak ste postupovali správne podľa návodu, budete mat minimálne kit s gcc(MinGW pre Windows).
 
   ![](/images/qt-creator/create_05.png)
   
@@ -26,7 +26,11 @@
 
 7. Do konfiguračného súboru projektu(CMakeLists.txt) pridajte nastavenia pre kompilátor používané v tomto predmete:
    ```
-   set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -std=c99 -Wall -Wextra -Werror")
+  if (CMAKE_CXX_COMPILER_ID MATCHES Clang OR ${CMAKE_CXX_COMPILER_ID} STREQUAL GNU)
+    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++14 -Wall -Wextra -Werror -pedantic")
+  elseif (${CMAKE_CXX_COMPILER_ID} STREQUAL MSVC)
+    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} /std=c++14 /permissive- /W4 /WX")
+  endif()
    ```
    Jednotlivé nastavenia znamenajú nasledovné:
    - **std=c99** - nastaví štandard jazyka, podľa ktorého má kompilátor kontrolovať podľa štandardu C99(vyučovaná verzia C v PB071),
