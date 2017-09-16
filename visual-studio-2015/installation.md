@@ -1,6 +1,12 @@
 ## Inštalácia {#visual-studio-installer}
 
 Stiahnite si Visual Studio **Community** na adrese [https://www.visualstudio.com/vs/\#downloadvs](https://www.visualstudio.com/vs/#downloadvs). Nainštalujte nasledovné moduly(ukážka na obrázku nižšie):
+   * Universal Windows Platform development
+   * Desktop development with C++
+   
+Uistite sa v bočnom paneli, že máte zvolený **Visual C++ tools for CMakee**
+
+![](/assets/2017-09-15.png)
 
 
 ## Prvé spustenie {#visual-studio-first-run}
