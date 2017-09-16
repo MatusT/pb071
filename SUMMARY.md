@@ -49,7 +49,7 @@
 * [Homebrew for macOS](qt-creator/homebrew-osx.md)
 * [Visual Studio 2017](visual-studio-2015/README.md)
   * [Inštalácia](visual-studio-2015/installation.md)
-  * [Vytvorenie nového projektu](visual-studio-2015/create.md)
+  * [Otvorenie projektu](visual-studio-2015/create.md)
   * [Spustenie projektu](visual-studio-2015/run.md)
   * [Debugging](visual-studio-2015/debugging.md)
   * [Git](visual-studio-2015/git.md)
