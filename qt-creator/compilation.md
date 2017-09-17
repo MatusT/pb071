@@ -12,6 +12,8 @@ Je termín, ktorý Qt Creator používa na označenie zoskupenia nástrojov slú
 
 V menu **Tools → Options → Build & Run** môžete pridávať nové Kity alebo upravovať existujúce. Po inštalácii by ste mali skontrolovať, že Qt Creator automaticky pripravil použiteľný kit s nástrojmi: gcc/MinGW, gdb a CMake.
 
+> Na Windowse v predmete PB071 sa bude primárne používať MinGW. V predmete PB161 je odporúčaný kompilátor MSVC.
+
 ![](/images/qt-creator/setup_01.png)
 
 > V prípade, že nebudete mať žiadny alebo chybný Kit\(ukazuje warning alebo error značku pri názve\), skontrolujte si postup inštalácie podľa návodu a prípadne sa obráťte na cvičiaceho.
