@@ -8,6 +8,4 @@ Rozcestník:
 * [Spustenie projektu](/xcode/run.md)
 * [Nastavenie kompilačných parametrov](/xcode/compilation.md)
 * [Pridanie súborov do projektu](/xcode/create.md)
-
-
-
+* [Vytvorenie projektu z CMake](xcode/vytvorenie-projektu-z-cmake.md)
