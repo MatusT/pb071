@@ -41,29 +41,29 @@ Kvôli prípadným problémom na vlastných strojoch, Vám dávame k dispozícii
 
 ## Obrázky
 
-Takto nejak bez virtuálnych strojov by mal vyzerať váš virtual box.![](/images/virtual_machine/virtual_box_main_window.png)
+Takto nejak bez virtuálnych strojov by mal vyzerať váš virtual box.![](../images/virtual_machine/virtual_box_main_window.png)
 
 Kliknete na na **New.**
 
-![](/images/virtual_machine/NameOfTheMachine.png)
+![](../images/virtual_machine/NameOfTheMachine.png)
 
 Pomenujte si nejak váš stroj.
 
-![](/images/virtual_machine/MemorySize.png)
+![](../images/virtual_machine/MemorySize.png)
 
 Pridelte mu pamäť - 2 GB je optimum.
 
-![](/images/virtual_machine/SelectVirtualDrive.png)
+![](../images/virtual_machine/SelectVirtualDrive.png)
 
 Vyberte poslednú možnosť, kliknite na zložku a nájdite extrahovaný virtuálny disk. A kliknite na **Create**.
 
 Následne otvorte **Settings** pre aktuálne vytvorený disk.
 
-![](/images/virtual_machine/SystemProc.png)
+![](../images/virtual_machine/SystemProc.png)
 
 Na karte **System** prideľte rozumné množstvo jadier.
 
-![](/images/virtual_machine/DisplayMemory.png)
+![](../images/virtual_machine/DisplayMemory.png)
 
 Na karte **Display** nastavte optimálne veľa **Video memory**, napríklad 64 MB.
 

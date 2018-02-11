@@ -9,16 +9,16 @@ Do samotného programu potom includneme už len hlavičkový súbor, napríklad 
 
 Na vytvorenie nového súboru kliknite na priečinok, v ktorom chcete súbor vytvoriť a vyberte **New File...**
 
-![](/assets/Xcode_create0.jpg)
+![](../assets/Xcode_create0.jpg)
 
 Z ponúknutých možností vyberte **C File**. Kliknite na **Next**.
 
-![](/assets/Xcode_create1.jpg)
+![](../assets/Xcode_create1.jpg)
 
 Definujte meno pre súbor \(1\). Zaškrtnite, že chcete vytvorit aj hlavičkový súbor \(2\).  
 \(Vo väčšine prípadov ho budete chcieť vytvoriť.\) Kliknite na **Next**.
 
-![](/assets/Xcode_create2.jpg)
+![](../assets/Xcode_create2.jpg)
 
 Vo Vami vybranom priečinku by sa mali objaviť novovytvorené súbory. Všimnite si, že hlavičkový súbor obsahuje
 
@@ -31,5 +31,5 @@ Vo Vami vybranom priečinku by sa mali objaviť novovytvorené súbory. Všimnit
 
 Tieto riadky majú svoj význam, tak ich prosím nemažte.
 
-![](/assets/Xcode_create3.png)
+![](../assets/Xcode_create3.png)
 

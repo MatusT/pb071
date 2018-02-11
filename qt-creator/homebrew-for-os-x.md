@@ -6,7 +6,7 @@ Tí z vás, ktorý ste už používali Fedoru alebo Ubuntu viete, ako pohodlné 
 
 Otvorte terminál. Nájdete ho v sekcii Launchpad &gt; Others, alebo jednoducho stlačte skratku pre rýchle vyhladávanie cmd+Space a napíšte Terminal.
 
-![](/assets/OSX_terminal.png)
+![](../assets/OSX_terminal.png)
 
 
 

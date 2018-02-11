@@ -25,15 +25,15 @@ Pozor! limited support for 10.11 and 10.12
 
 Otvorte stiahnutý súbor a dekomprimujte ho.
 
-![](/assets/OSX_valgrind1.png)
+![](../assets/OSX_valgrind1.png)
 
 Na vzniknutý priečinok kliknite pravým klikom a vyberte možnosť_ Get Info._
 
-![](/assets/OSX_valgrind2.png)
+![](../assets/OSX_valgrind2.png)
 
 V otvorenom okne zistíte, kde máte súbor uložený.
 
-![](/assets/OSX_valgrind3.jpg)
+![](../assets/OSX_valgrind3.jpg)
 
 Otvorte terminál.
 

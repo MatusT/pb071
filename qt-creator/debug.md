@@ -2,11 +2,11 @@
 
 Pred spustením debugovania sa uistite, že je projekt skompilovaný s informáciami potrebnými pre debugovanie. To spravíte kliknutím na ikonu výberu spôsobu kompilácie\(viď obrázok nižšie\) a zvolením _Debug_.
 
-![](/images/qt-creator/debug_01.png)
+![](../images/qt-creator/debug_01.png)
 
 Teraz môžete spustiť proces debugovania kliknutím na ikonu nachádzajúcu sa pod ikonou spustenia. Qt Creator sa prepne do módu debugovania, ktorý vyzerá ako na obrázku. Jednotlivé okná a prvky sú postupne popísané v tutoriály aj s návodom, ako ich efektívne používať pre nájdenie chyby v programe.
 
-![](/images/qt-creator/debug_02.png)
+![](../images/qt-creator/debug_02.png)
 
 ## Breakpoints {#breakpoints}
 

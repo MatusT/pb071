@@ -12,12 +12,12 @@ brew install doxygen
 
 V dolnej časti vyhladajte distribúciu pre Mac OS X, a stiahnite si ju.
 
-![](/assets/OSX_doxygen1.png)
+![](../assets/OSX_doxygen1.png)
 
 Otvorte stiahnutý súbor. Na inštalačný súbor Doxygen _kliknite pravým a vyberte možnosť Open_.  
 >Pozor! Táto kombinácia **nie je **ekvivalentná obyčajnému otvoreniu súboru dvojklikom! Dokončite inštaláciu.
 
-![](/assets/OSX_doxygen2.png)
+![](../assets/OSX_doxygen2.png)
 
 {% include "./installation-next.md" %} 
 

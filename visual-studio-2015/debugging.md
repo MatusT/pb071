@@ -13,4 +13,4 @@ V druhom okne sa nachádza:
 - **Call Stack** - zoznam volaní, ktoré boli vykonané aby sa program dostal do zastaveného bodu
 - **Breakpoints** - zoznam všetkých breakpointov v programe. Tu môžete pridávať aj breakpointy so zložitejšími podmienkami(viď [Debugging v Qt Creatore](../qt-creator/debugging.md))
 
-![](/images/visual-studio-2015/debugging.png)
+![](../images/visual-studio-2015/debugging.png)

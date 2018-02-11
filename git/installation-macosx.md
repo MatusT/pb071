@@ -12,5 +12,5 @@ brew install git
 
 Otvorte tento súbor. Na inštalačný súbor git-... _kliknite pravým a vyberte možnosť Open_. Pozor! Táto kombinácia nie je ekvivalentná obyčajnému otvoreniu súboru dvojklikom! Dokončite inštaláciu.
 
-![](/assets/OSX_git.png)
+![](../assets/OSX_git.png)
 

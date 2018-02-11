@@ -41,11 +41,11 @@ Základne balíky **make, gcc, gdb** na kompiláciu musíte nainštalovať z bal
   ```
 4. Na začiatku Vám inštalátor ponúkne registráciu, ktorá nie je povinná a je možné ju preskočiť. V prípade, že sa rozhodnete túto možnosť využiť, účet Vám poslúži na prihlasovanie sa do [Qt Wiki](https://wiki.qt.io/Main) a [Qt Fóra](https://forum.qt.io/).
   
-  ![](/images/qt-creator/linux_install_01.png)
+  ![](../images/qt-creator/linux_install_01.png)
   
 5. Z komponentov potrebujete Qt 5.8 → **Desktop gcc 64-bit/32-bit**
   
-  ![](/images/qt-creator/linux_install_03.png)
+  ![](../images/qt-creator/linux_install_03.png)
 
 
 {% include "./installation-next.md" %}

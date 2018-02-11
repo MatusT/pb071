@@ -4,7 +4,7 @@ Inštalačný súbor si stiahnite [TU](https://github.com/DynamoRIO/drmemory/wik
 
 Ovorte **terminál**. Ten nájdete v časti **Launchpad &gt; Others**, alebo pomocou rýchleho vyhladávania: stlačte **⌘+Space **a napíšte Terminál.
 
-![](/assets/OSX_terminal.png)
+![](../assets/OSX_terminal.png)
 
 Presunte sa priečinku **Downloads**, prípadne do priečinku, v ktorom sa nachádza stiahnutý inštalačný súbor \(Pomocou príkazov cd {directory}\). Preveďte nasledujúcu postupnosť krokov.  
 **Pozor**! X.X.X-X bude nahradené vašou aktuálne stiahnutou verziou.

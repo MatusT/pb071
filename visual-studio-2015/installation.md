@@ -6,7 +6,7 @@ Stiahnite si Visual Studio **Community** na adrese [https://www.visualstudio.com
    
 Uistite sa v bočnom paneli, že máte zvolený **Visual C++ tools for CMakee**
 
-![](/assets/2017-09-15.png)
+![](../assets/2017-09-15.png)
 
 
 ## Prvé spustenie {#visual-studio-first-run}
@@ -16,11 +16,11 @@ Uistite sa v bočnom paneli, že máte zvolený **Visual C++ tools for CMakee**
    * **Sign in/up** -budú sa Vám synchronizovať nastavenia v budúcich inštaláciach a na iných počítačoch. Taktiež získate prístup k ďalšej funkcionalite.
    * **Not now, maybe later** - pokiaľ sa rozhodnete neprihlásiť, o nič nutné pre tento predmet neprídete
 
-     ![](/visual-studio-2015/images/firstrun_1.png)
+     ![](../visual-studio-2015/images/firstrun_1.png)
 
 2. Následne dostanete na výber usporiadanie a vzhľad. V tomto predmete sa Vám bude hodiť _Development Settings_ mať nastavené na **Visual C++**. Vzhľad je čisto o Vašich preferenciách, v tomto tutoriáli bude preferovaný vzhľad **Blue**.
 
-   ![](/visual-studio-2015/images/firstrun_2.png)
+   ![](../visual-studio-2015/images/firstrun_2.png)
 
 
 

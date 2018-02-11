@@ -19,11 +19,11 @@ Na [http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html](http://www.ch
    {xlogin}@aisa.fi.muni.cz
    ```
 
-   ![](/assets/PuTTY1.png)
+   ![](../assets/PuTTY1.png)
 
 2. `Open` a napíšte svoje fakultné heslo.
 
-   ![](/assets/PuTTY2.png)
+   ![](../assets/PuTTY2.png)
 
 3. Po prihlásení máte možnosť spustiť skript na odovzdanie domácej úlohy:
 

@@ -4,7 +4,7 @@ Tí z Vás, ktorý si už vyskúšali operačné systémy Ubuntu alebo Fedora vi
 
 Ovorte terminál. Ten nájdete v časti **Launchpad &gt; Others** alebo pomocou rýchleho vyhladávania: stlačte **⌘+Space **a napíšte Terminal.
 
-![](/assets/OSX_terminal.png)
+![](../assets/OSX_terminal.png)
 
 Do terminálu skopírujte nasledovný riadok a stlačte Enter.
 

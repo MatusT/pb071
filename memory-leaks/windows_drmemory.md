@@ -9,9 +9,9 @@
 
 Binárne súbory vyprodukované kompilátorom MinGW(odporúčaný a používaný v tutoriáloch) su závislé na nietkorých jeho knižniciach(**.dll** súbory) bez ktorých sa program nespustí. Tieto .dll súbory môžete buď skopírovať k Vášmu .exe programu alebo povedať systému, kde sa nachádzaju, čo je tá jednoduchšia cesta. Ak ste nemenili cestu inštalácie, MinGW knižnice sa budú nachádzať v **C:\Qt\5.8\mingw53_32\bin**.
 
-![](/assets/path1.png)
-![](/assets/path2.png)
-![](/assets/path3.png)
+![](../assets/path1.png)
+![](../assets/path2.png)
+![](../assets/path3.png)
 
 ## Použitie
 
