@@ -20,16 +20,16 @@
 
   ![](../images/qt-creator/create_05.png)
   
-6. Voľbu *Add to version control* vynechajte, zbytočne iba vytvorí _.gitignore_ pre daný projekt - to je však zbytočné, ak už jeden máte v repozitári.
+6. Voľbu *Add to version control*, ktorá vytvorí _.gitignore_, vynechajte. Tento súbor Vám dodávame v každom repozitári.
 
   ![](../images/qt-creator/create_06.png)
 
-7. Do konfiguračného súboru projektu(CMakeLists.txt) pridajte nastavenia pre kompilátory:
+7. Do konfiguračného súboru projektu(CMakeLists.txt) pridajte za deklaráciu project() nastavenia pre kompilátory:
    * Pre C99 (PB071)
    ```
-    if (CMAKE_CXX_COMPILER_ID MATCHES Clang OR ${CMAKE_CXX_COMPILER_ID} STREQUAL GNU)
-    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c99 -Wall -Wextra -Werror -pedantic")
-    endif(CMAKE_CXX_COMPILER_ID MATCHES Clang OR ${CMAKE_CXX_COMPILER_ID} STREQUAL GNU)
+   if (CMAKE_CXX_COMPILER_ID MATCHES Clang OR ${CMAKE_CXX_COMPILER_ID} STREQUAL GNU)
+     set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c99 -Wall -Wextra -Werror -pedantic")
+   endif()
    ```
    * Pre C++14 (PB161)
    ```

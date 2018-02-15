@@ -15,4 +15,4 @@
 
 # Kam ďalej
 
-Po úspešnom dokončení úlohy aj s dokumentáciou, odovzdajte úlohu cez [Kontr na stroji AISA](../ssh/README.md).
+Po úspešnom dokončení úlohy aj s dokumentáciou, odovzdajte úlohu cez [Kontr na stroji AISA](../ssh/index.md).

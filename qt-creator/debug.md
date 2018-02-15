@@ -39,6 +39,6 @@ Zobrazuje zoznam funkcií, ktoré boli zavolané aby sa program dostal do zastav
 # Kam ďalej {#next}
 
 Ak ste sa dostali až sem, tak ste prešli všetky potrebné tutoriály na vývoj. Ďalej by ste mali pokračovať:
-- hľadaním a odchytávaním chýb spojených s pamäťou pomocou nástroja [Valgrind alebo Dr. Memory](/memory-leaks/README.md),
-- dokumentovaním kódu pomocou nástroja [Doxygen](/doxygen/README.md),
-- odovzdaním úlohy na [AISE](/ssh/README.md).
+- hľadaním a odchytávaním chýb spojených s pamäťou pomocou nástroja [Valgrind alebo Dr. Memory](/memory-leaks/index.md),
+- dokumentovaním kódu pomocou nástroja [Doxygen](/doxygen/index.md),
+- odovzdaním úlohy na [AISE](/ssh/index.md).

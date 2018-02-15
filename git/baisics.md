@@ -91,11 +91,11 @@ git clone "https://gitlab.fi.muni.cz/kde/repozitar.git"
 # s SSH klíčem
 git clone "git@gitlab.fi.muni.cz:kde/repozitar.git"
 ```
-Tím vznikne adresář repozitar. Zkuste v něm vytvořit soubor README.md:
+Tím vznikne adresář repozitar. Zkuste v něm vytvořit soubor index.md:
 
 ```
 cd repozitar
-cat > README.md &lt;&lt;EOL
+cat > index.md &lt;&lt;EOL
 # Readme k projektu
 
 Tento soubor může používat **formátování** pomocí _Markdown_.
@@ -105,11 +105,11 @@ EOF
 Nový nebo změněný soubor připravte ke commitu, udělejte commit a pak push.
 
 ```
-git add README.md
+git add index.md
 git commit -m "ZPRAVA"      # pokud chybí -m "ZPRAVA", otevře se editor
 git push
 ```
-Na GitLabu obnovte stránku, měli byste vidět soubor README.md a jeho obsah zobrazen pod popisem projektu. Zkuste jej nyní změnit: Files → README.md → Edit (vpravo). Přidejte libovolný text a klikněte na Commit Changes. Pak se vraťte na hlavní stránku projektu (levý panel Project) a uvidíte změněné README.md.
+Na GitLabu obnovte stránku, měli byste vidět soubor index.md a jeho obsah zobrazen pod popisem projektu. Zkuste jej nyní změnit: Files → index.md → Edit (vpravo). Přidejte libovolný text a klikněte na Commit Changes. Pak se vraťte na hlavní stránku projektu (levý panel Project) a uvidíte změněné index.md.
 
 Upravenou verzi souboru stáhnete do svého repozitáře příkazem git pull.
 

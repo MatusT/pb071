@@ -1,3 +1,3 @@
 # Kam ďalej {#next}
 
-Po nainštalovaní môžete otvárať súbory, s príponopu **.pro**, definujúce projekt. Tieto projektové súbory sú dodané pre úlohy na cvičenia. Pre vlastné úlohy si projekty musíte vytvárať sami. Pokračujte v návode [vytvorením projektu](../qt-creator/create.md).
+Po nainštalovaní nástrojov Qt Creator a CMake môžete otvárať projekty definované súbormi **CMakeLists.txt**. Tieto projektové súbory sú dodané pre úlohy na cvičenia. Pre vlastné úlohy si projekty musíte vytvárať sami. Pokračujte v návode [importovaním projektu](../qt-creator/import.md).

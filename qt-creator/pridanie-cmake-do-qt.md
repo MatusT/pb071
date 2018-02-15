@@ -1,1 +1,0 @@
-Pridanie Cmake ako 

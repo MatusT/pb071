@@ -4,7 +4,7 @@ V PB071 sa odporúča používať Qt Creator, kde typicky len otvoríte dodaný 
 
 ## Qt Creator
 
-Pokračujte návodom na [Qt Creator](../qt-creator/README.md).
+Pokračujte návodom na [Qt Creator](../qt-creator/index.md).
 
 ## Command line
 
@@ -44,4 +44,4 @@ vo Visual Studio.
 
 # Kam ďalej
 
-Pokračujte návodom na [Qt Creator](../qt-creator/README.md), alebo ak ste zvládli kompiláciu cez command line a nechcete používať IDE, preskočte na [Valgrind a Dr. Memory](../memory-leaks/README.md).
+Pokračujte návodom na [Qt Creator](../qt-creator/index.md), alebo ak ste zvládli kompiláciu cez command line a nechcete používať IDE, preskočte na [Valgrind a Dr. Memory](../memory-leaks/index.md).
