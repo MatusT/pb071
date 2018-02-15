@@ -9,13 +9,13 @@ preskočiť. V prípade, že sa rozhodnete túto možnosť využiť, účet Vám
   ![](../images/qt-creator/windows_install_02.png)
 
 2. Z komponentov na výber potrebujete:
-  - Qt → Qt 5.9.1 → **MinGW 5.3.0 32 bit**
+  - Qt → Qt 5.10.1 → **MinGW 5.3.0 32 bit**
   - Tools → **MinGW 5.3.0**
 
 3. Ak chcete aj podporu oficiálneho Microsoft kompilátora MSVC, môžete pridať aj nasledujúce komponenty:
-  - Qt → Qt 5.9.1 → **msvc2017 64-bit**
-  - Tools → **Qt Creator 4.4.0 CDB Debugger support**
+  - Qt → Qt 5.10.1 → **msvc2017 64-bit**
+  - Tools → **Qt Creator 4.5.1 CDB Debugger support**
      
-    ![](../assets/2017-09-14.png)
+    ![](../images/qt-creator/windows_install_03.png)
 
 {% include "./installation-next.md" %}
